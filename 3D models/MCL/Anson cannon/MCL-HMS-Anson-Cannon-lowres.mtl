@@ -1,0 +1,44 @@
+newmtl Solid
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+
+newmtl MCL-HMS-Anson-Cannon-lowres
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd MCL-HMS-Anson-Cannon-lowres.jpg
+
+newmtl MCL-HMS-Anson-Cannon-lowres1
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd MCL-HMS-Anson-Cannon-lowres1.jpg
+
+newmtl MCL-HMS-Anson-Cannon-lowres2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd MCL-HMS-Anson-Cannon-lowres2.jpg
+
+newmtl MCL-HMS-Anson-Cannon-lowres3
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd MCL-HMS-Anson-Cannon-lowres3.jpg
+
