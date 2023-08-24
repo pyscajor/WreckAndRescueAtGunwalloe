@@ -1,0 +1,6 @@
+# Apple ModelI/O MTL File: grenade.mtl
+
+newmtl poly_0
+	map_Kd CAU-Bob-Felce-Concreted-Grenade.png
+	Kd 1 1 1
+	
