@@ -1,0 +1,19 @@
+newmtl Solid
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+
+newmtl St-Winwaloe-Apostles-South-Door-100Kpoly
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd St-Winwaloe-Apostles-South-Door-100Kpoly.jpg
+map_Bump St-Winwaloe-Apostles-South-Door-100Kpoly_normal.jpg
+map_ao St-Winwaloe-Apostles-South-Door-100Kpoly_occlusion.jpg
+
