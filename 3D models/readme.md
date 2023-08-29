@@ -1,6 +1,10 @@
 # 3D Models
 
-33 3D models are made available in this repository. They were sourced by the Wreck and Rescue at Gunwalloe project team from the following organisations.
+33 3D models in [Wavefront .obj](https://en.wikipedia.org/wiki/Wavefront_.obj_file) format are available in this repository. Each model is accompanied by a material reference file (.mtl) alongside JPEG materials (e.g. diffuse, metal, roughness, and normal maps).
+
+They were 3D scanned by the Wreck and Rescue at Gunwalloe project team to reflect the items found from the Gunwalloe protected wrecks as well as those related to rescue at sea. Many of the latter were developed locally in response to the regular loss of life at sea, such as [Henry Trengrouse](https://museumofcornishlife.co.uk/collections/henry-trengrouse/)'s lifesaving equipment.
+
+The scans are from the following organisations and/or locations:
 
 ## BF - Bob Felce
 
