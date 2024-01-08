@@ -1,6 +1,6 @@
 # Gunwalloe’s Three ‘Protected Wrecks’
 
-## 1 St Anthony, PW 1000067; Portuguese carrack, wrecked 1527, Fishing Cove, Gunwalloe
+## 1 *St Anthony*, PW 1000067; Portuguese carrack, wrecked 1527, Fishing Cove, Gunwalloe
 
 ### The Site and its Discovery
 
@@ -20,3 +20,20 @@ The Portuguese claimed that local gentry Godolphin, St Aubyn and Milliton robbed
 
 Salvage recorded later in the 16th century included bronze guns (two went to Pendennis Castle), and, 50 years after the wreck, a silver pipe and chain weighing 1lb. Tradition attributes to the wreck the wooden screen that once embellished Gunwalloe Church.
 
+### Heritage of the *St Anthony*
+You can explore through ‘Wreck and Rescue’ 3D models: 
+
+* Painted panels, remnants of old screen; from Gunwalloe Church (2 models: [south door](https://sketchfab.com/3d-models/st-winwaloe-apostles-gunwalloe-south-door-3d21db1873554a149f290d8d0cb7fdba), [north door](https://sketchfab.com/3d-models/st-winwaloe-apostles-gunwalloe-north-door-a5a30d74d40543e4820672e9b5e092ce))
+* ‘[Stink Pot](https://sketchfab.com/3d-models/rcm-stink-pot-from-the-st-anthony-bb8af360365b4b15a87703f04f5c3f8e)’ lead shot, candlestick base, and copper ingot; from Royal Cornwall Museum, Truro
+* [Replica of silver ingot](https://sketchfab.com/3d-models/stm-replica-ingot-from-the-st-anthony-a47f60b397714f469e966381a1905078); from Shipwreck Treasure Museum, Charlestown ─ the original being at the British Museum, London
+
+All 3D models displayed on Sketchfab can also be downloaded, along with a list and explanation of the file formats, from [this repository](https://github.com/pyscajor/WreckAndRescueAtGunwalloe/tree/main/3D%20models).
+
+### Acknowledgements 
+
+Sources of information used, which also give further details;
+* Catalogue/display text: Royal Cornwall Museum, Truro; Shipwreck Treasure Museum, Charlestown
+* Chynoweth, J, 1968. The Wreck of the St Anthony. Journal of the Royal Institution of Cornwall New Series **4**, 385-406
+* Historic England designation description, Protected Wreck 1000067
+* Historic England archive, Protected Wrecks licensed divers’ reports
+* Randall, A, n.d. The Wreck of the St. Anthony, 1527. TS article
