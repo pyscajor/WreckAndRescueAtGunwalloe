@@ -37,3 +37,22 @@ Sources of information used, which also give further details;
 * Historic England designation description, Protected Wreck 1000067
 * Historic England archive, Protected Wrecks licensed divers’ reports
 * Randall, A, n.d. The Wreck of the St. Anthony, 1527. TS article
+
+### Photographs
+
+![Surf at Fishing Cove pounding over the remains of the ‘St Anthony’, shot by Anthony Randall who explored and researched the wreck some 50 years ago](website-images/1-Surf-at-Fishing-Cove.jpg)
+*Surf at Fishing Cove pounding over the remains of the ‘St Anthony’, shot by Anthony Randall who explored and researched the wreck some 50 years ago (~1973).*
+
+![Cornish church historian Jo Mattingly at the project event in Gunwalloe Church. Jo is highlighting part of the church screen attributed to the St Anthony wreck, built into a door ─ with the help of a divers’ torch from Kevin Camidge of CISMAS.](website-images/2-JM-talk-Gunwalloe-screen.jpg)
+*Cornish church historian Jo Mattingly at the project event in Gunwalloe Church. Jo is highlighting part of the church screen attributed to the St Anthony wreck, built into a door ─ with the help of a divers’ torch from Kevin Camidge of CISMAS.*
+
+![Fellow church specialist John Allan of Exeter shares observations of marks where the Gunwalloe Church screen once stood. The screen may have been paid for by the extraordinary rich salvage from the 1527 wreck of the St Anthony.](website-images/3-JA-and-church-screen-scar.jpg)
+*Fellow church specialist John Allan of Exeter shares observations of marks where the Gunwalloe Church screen once stood. The screen may have been paid for by the extraordinary rich salvage from the 1527 wreck of the St Anthony.*
+
+![Anthony Randall’s photo of an ornamental candlestick with lion supporters at the base, the lions closely resembling others he found at the wreck of the St Anthony.](website-images/4-Candlestick.jpg)
+
+*Anthony Randall’s photo of an ornamental candlestick with lion supporters at the base, the lions closely resembling others he found at the wreck of the St Anthony.*
+
+![Silver ingot, with candlestick parts below it, and lead disc between those; found by diving on the St Anthony and photographed after landing by Anthony Randall. Anthony suggests the lead piece is a seal from one of the suits of armour listed in the cargo.](website-images/5-Ingot-and-candle-sockets.JPG)
+
+*Silver ingot with candlestick parts below it, and lead disc between those; found by diving on the St Anthony and photographed after landing by Anthony Randall. Anthony suggests the lead piece is a seal from one of the suits of armour listed in the cargo.*
