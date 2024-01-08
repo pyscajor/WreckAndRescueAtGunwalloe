@@ -56,3 +56,42 @@ Sources of information used, which also give further details;
 ![Silver ingot, with candlestick parts below it, and lead disc between those; found by diving on the St Anthony and photographed after landing by Anthony Randall. Anthony suggests the lead piece is a seal from one of the suits of armour listed in the cargo.](website-images/5-Ingot-and-candle-sockets.JPG)
 
 *Silver ingot with candlestick parts below it, and lead disc between those; found by diving on the St Anthony and photographed after landing by Anthony Randall. Anthony suggests the lead piece is a seal from one of the suits of armour listed in the cargo.*
+
+## 2 *Schiedam*, PW 1000049; Dutch flute, wrecked 1684, Jangye-ryn, Gunwalloe
+
+### The Site and its Discovery
+
+Anthony Randall found nine iron guns at Jangye-ryn in 1971. Over the next decade, he dived here with a team, initially Roy Davis, Michael Hall, Richard Larn, Peter McBride, Kenneth Simpson, Michael Stevens and Ian Spooner. The wreck was identified, from the style of its guns, with the notorious loss of the English prize Schiedam sailing from Tangier.
+
+The site was designated a PW in 1982. Licensed diving continued when the ever-shifting sand and gravel revealed the wreckage. In 1982, for example, divers could discern 3 guns. Two small excavations were made through loose material to reach the concreted remains, and several pewter artefacts were found. In 1983 even less was visible. In 1984, though, the team could see a dozen guns, and used a datum line, fixed daily among the gullies and reefs, to start measuring in these ‘landmarks’ of an ever-changing site.
+
+Many artefacts have been recovered, among them cannons, pewter and copper kitchen ware, bronze castings, grenades, worked marble, and some timbers and other organic material preserved in sand. In 2026 licensed divers David Gibbins and the late Mark Milburn found 3 half-hundredweight bronze merchant’s weights, bearing the arms of Portugal, attributed to the Portuguese occupation of Tangier and dated to c1500. David recovered the weights in 2020 for conservation, publication and display (forthcoming).
+
+### The Story of the Wreck 
+
+Schiedam was a fluyt or merchantman of c400 tons from Hoorn in Holland. Sailing in the Mediterranean in 1683, she was seized by a Corsair frigate. Ten days later she was taken again, by the English ship, James Galley, whose captain was Sir Cloudesley Shovel (later wrecked and drowned on Scilly). The James’ log, transcribed by Anthony Randall, notes ‘This morning about ½ an hour past 5 a Clocke, we see a Saile Bere N W b W off us….we ffetcht upon her hoping her to be a Priz ….at 11 a Clock we Came up with her it is a flyboat off 400 Tun: Callid ye Groette Scherdam van Horn….’ 
+
+The English took their prize to Tangier, acquired by Charles II in 1661 but now being evacuated as indefensible. Samuel Pepys was there, making valuations for compensation purposes. Schiedam served as a water carrier, then sailed to England with material stripped from Tangier, and a large ship’s company, and horses. The heavy load may have been a factor when she struck at Gunwalloe on April 4th. Her people survived, but with much distress. A group of caulkers, petitioning the King for unpaid wages, had ‘lost their Clothes, Tools, and other things then on Board’. The horses sadly were lost too, with much cargo, although a Richard Sampson salvaged some gear and guns in the aftermath. 
+
+### Heritage of the Schiedam 
+
+You can explore through ‘Wreck and Rescue’ 3D models:
+
+* [Timber](https://sketchfab.com/3d-models/ships-rib-from-the-wreck-of-the-schiedam-prize-0c2ea267de12447ea26e967ec22869ac), and [carved marble](https://sketchfab.com/3d-models/marble-fragment-from-the-schiedam-prize-wreck-523d2896ebeb4d98975570698b1f4a8c) (2 models); from Museum of Cornish Life, Helston
+* [Lead weight](https://sketchfab.com/3d-models/stm-compass-weight-from-the-shiedam-prize-e2efd85ff41c4c758edf03e13858df87), [nested copper vessels](https://sketchfab.com/3d-models/schiedam-nested-copper-measuring-cups-66a4e964a8c543a594cccf0412945d1d), and [lead box](https://sketchfab.com/3d-models/schiedam-square-section-lead-pot-141cd3ee67644810b7ccb756e6cbe470) (3 models); from Shipwreck Treasure Museum, Charlestown
+* Stern gun, and grenades including wooden bungs, in concreted beach material (4 models); from Robert Felce, Mullion
+
+All 3D models displayed on Sketchfab can also be downloaded, along with a list and explanation of the file formats, from [this repository](https://github.com/pyscajor/WreckAndRescueAtGunwalloe/tree/main/3D%20models).
+
+### Acknowledgements 
+
+Sources of information used, which also give further details;
+
+* Black, J, 2005. *Schiedam, The Lizard, Cornwall*. Wessex Archaeology: Salisbury
+* Camidge, K, 2013. *Schiedam Prize Desk-Based Assessment*
+* Catalogue/display text: Museum of Cornish Life, Helston; Royal Cornwall Museum, Truro; Shipwreck Treasure Museum, Charlestown
+* Historic England designation description, Protected Wreck 1000049
+* Historic England archive material, Protected Wrecks licensed divers’ reports
+* Randall, A, 1984. Corsairs booty, Samuel Pepys and the last ship out of Tangier *Western Morning News*
+* Copies/transcriptions of documents, and commentary, courtesy of Anthony Randall. 
+
