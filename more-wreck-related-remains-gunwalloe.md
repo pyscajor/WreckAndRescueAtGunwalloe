@@ -9,15 +9,15 @@ A salvage way and other remains of these schemes are now inaccessible, due to cl
 
 ## Low Lee Ledge; multiple wreck site, off Penlee Point, Penzance
 
-As noted by Kevin Camidge of CISMAS, Low Lee, a steep reef just below the waves, has wrecked many ships. At least 3 post-date 1851 when it was marked by a buoy; the steel steamer Primrose sunk here in 1906. The site is complex, with remains including organic material like whale bone, as well as bricks and cannon balls, and varied marine life. A cannon recovered from the reef in 1916 stood at Penzance Library until stolen in 2003.
+As noted by Kevin Camidge of CISMAS, Low Lee, a steep reef just below the waves, has wrecked many ships. At least 3 post-date 1851 when it was marked by a buoy; the steel steamer *Primrose* sunk here in 1906. The site is complex, with remains including organic material like whale bone, as well as bricks and cannon balls, and varied marine life. A cannon recovered from the reef in 1916 stood at Penzance Public Library until stolen in 2003.
 
 The ledge lies on the west side of Mount’s Bay, but gales could drive wreckage from here to Gunwalloe. On February 1st 1833, a buoy at the Runnel Stone on the far side of the bay was wrenched off its moorings, and swept to Gunwalloe with 15 fathoms of chain.
 
 ## Gunwalloe coves; other wreckage, recorded from medieval times
 
-Wreck timber from Gunwalloe appears in Duchy accounts for 1297-98, a trace of the wrecks of medieval times when this was a manorial centre.  Crumbling cliffs have exposed remains of houses dating from before Domesday, partly excavated in 2011-2012 by a team led by Imogen Wood. The ‘Wreck and Rescue’ Ground Penetrating Radar (GPR) survey indicates potential remains of another building and a pit, deep under blown sand.
+Wreck timber from Gunwalloe appears in Duchy accounts for 1297-98, a trace of the wrecks of medieval times when this was a manorial centre.  Crumbling cliffs have exposed remains of houses dating from before Domesday, partly excavated in 2011-2012 by a team led by Imogen Wood. The *‘Wreck and Rescue’* Ground Penetrating Radar (GPR) survey indicates potential remains of another building and a pit, deep under blown sand.
 
-A memorial ‘book’ made of ship’s timber records the fatal Santesta wreck of 1865. A note in a bottle was brought to the Vicar in 1873; he made out the name Zibriea and ‘fearful storm’, and sent the message on to the Signal Station on the Lizard. Parish registers note strandings of drowned bodies; 36 in the early 19th century alone, among them a man with tattoos including three stars on his hands, found after the loss of a French coaster in 1817.
+A memorial ‘book’ made of ship’s timber records the fatal *Santesta* wreck of 1865. A note in a bottle was brought to the Vicar in 1873; he made out the name *Zibriea* and ‘fearful storm’, and sent the message on to the Signal Station on the Lizard. Parish registers note strandings of drowned bodies; 36 in the early 19th century alone, among them a man with tattoos including three stars on his hands, found after the loss of a French coaster in 1817.
 
 Robert Felce has recorded many other local wreck stories. He also reports finding a silver button at Church Cove, possibly from a wreck or wreck victim carried here by the waves.
 
@@ -35,9 +35,9 @@ You can explore through ‘Wreck and Rescue’ 3D models:
 
 Sources of information used, which also give further details;
 
-* Camidge, K, forthcoming. Low Lee, Penzance. CISMAS: Penzance
+* Camidge, K, forthcoming. *Low Lee, Penzance*. CISMAS: Penzance
 * Catalogue/display text: Museum of Cornish Life, Helston; Royal Cornwall Museum, Truro
-* Cummings, AH, 1875. Churches and Antiquities of Cury and Gunwalloe. W Lake: Truro
-* Felce, R, 2022. Dodging about in the Mullion Roads. Robert Felce: Mullion
-* Kowaleski, M, (ed) 2001. The Havener’s Accounts of the Earldom and Duchy of Cornwall, 1287-1356. New Series, 44. Devon and Cornwall Record Society: Exeter
-* Wood, I, 2015. Gunwalloe Through The Ages: Middle Bronze Age to the 12th century AD Lizard Peninsula, Cornwall. National Trust Penrose Estate: Helston
+* Cummings, AH, 1875. *Churches and Antiquities of Cury and Gunwalloe*. W Lake: Truro
+* Felce, R, 2022. *Dodging about in the Mullion Roads*. Robert Felce: Mullion
+* Kowaleski, M, (ed) 2001. *The Havener’s Accounts of the Earldom and Duchy of Cornwall, 1287-1356*. New Series, 44. Devon and Cornwall Record Society: Exeter
+* Wood, I, 2015. *Gunwalloe Through The Ages: Middle Bronze Age to the 12th century AD Lizard Peninsula, Cornwall*. National Trust Penrose Estate: Helston
