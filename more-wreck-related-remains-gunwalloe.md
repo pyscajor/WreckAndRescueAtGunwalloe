@@ -25,11 +25,11 @@ Robert Felce has recorded many other local wreck stories. He also reports findin
 
 You can explore through ‘Wreck and Rescue’ 3D models:
 
-* The Castle, Gunwalloe; the headland at extra low tide, with salvage access way
-* 1780s silver dollars (2 models); from Royal Cornwall Museum, Truro
+* [The Castle, Gunwalloe](https://sketchfab.com/3d-models/gunwalloe-cove-txt-1c17c036feba4abdafee4931a1bcc87b); the headland at extra low tide, with salvage access way
+* 1780s silver dollars ([model 1](https://sketchfab.com/3d-models/rcm-1780s-silver-dollar-from-a-gunwalloe-wreck-61fb2e109084482d8f50c3f8c8deea50), [model 2 - with concretion](https://sketchfab.com/3d-models/rcm-1780s-silver-dollar-with-concretion-68279aaa74a8458ebfc7d6dd0b9ce2ab); from [Royal Cornwall Museum](https://www.royalcornwallmuseum.org.uk), Truro
 * Low Lee bowl, brick, deadeye, lid with shot hole (4 models); from CISMAS
-* Silver button; found by Robert Felce of Mullion
-* ‘Book’ carved from shipwreck timber; from Museum of Cornish Life, Helston
+* [Silver button](https://sketchfab.com/3d-models/silver-button-ffda97d5b1af4a9ab627955561548a4c); found by Robert Felce of Mullion
+* ‘[Book](https://sketchfab.com/3d-models/carved-memorial-book-made-from-shipwrecked-wood-826764ec7bca42e187b823c9dd955d51)’ carved from shipwreck timber; from [Museum of Cornish Life](https://museumofcornishlife.co.uk), Helston
 
 ## Acknowledgements 
 
@@ -41,3 +41,23 @@ Sources of information used, which also give further details;
 * Felce, R, 2022. *Dodging about in the Mullion Roads*. Robert Felce: Mullion
 * Kowaleski, M, (ed) 2001. *The Havener’s Accounts of the Earldom and Duchy of Cornwall, 1287-1356*. New Series, 44. Devon and Cornwall Record Society: Exeter
 * Wood, I, 2015. *Gunwalloe Through The Ages: Middle Bronze Age to the 12th century AD Lizard Peninsula, Cornwall*. National Trust Penrose Estate: Helston
+
+## Photographs
+
+![Tidal rocks off the Castle head, Gunwalloe; with examples of the sockets for salvage dam works, now making square rockpools, marked by blue arrows.](website-images/1-Inter-tidal-ledge-with-rock-cut-features.jpg)
+
+*Tidal rocks off the Castle head, Gunwalloe; with examples of the sockets for salvage dam works, now making square rockpools, marked by blue arrows.*
+
+![‘Wreck and Rescue’ volunteers laying marks for the drone survey of the headland.](website-images/2-Volunteers-laying-marks-for-drone.JPG)
+
+*‘Wreck and Rescue’ volunteers laying marks for the drone survey of the headland.*
+
+![Plan of GPR survey using different colours to indicate different ground types](website-images/3-GPR-survey-plan.jpg)
+
+*Plan of GPR survey area 20.75 square, north of Gunwalloe churchyard, indicating buried remains ─ a possible structure some 8m by 4m across, and a pit perhaps a wreck victims’ grave. Gunwalloe is a shrunken settlement; it was a manorial centre at Domesday (1086). Buried early houses like those found on the cliffs may extend to this area.*
+
+*Study of estate records (Fox and Padel, 2000) shows at least one tenement, besides the manor farm which had several houses, remained in the period of Gunwalloe’s wrecks, now PWs. So perhaps there were tenants here to help survivors like those who, having lost all they owned, petitioned the King for help (on the Schiedam wreck page).*
+
+![GPR survey underway. Volunteers look at the screen attached to the GPR equipment which is mounted on wheels and pushed across the site](website-images/4-GPR-survey-under-way.JPG)
+
+*Ground Penetrating Radar (GPR) survey underway.*
