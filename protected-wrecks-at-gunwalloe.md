@@ -145,9 +145,9 @@ Local people might seize and conflict over wreckage; conceal and use cargo thems
 
 ### Heritage of the President 
 
-You can explore through a ‘Wreck and Rescue’ model:
+You can explore through a ‘Wreck and Rescue’ 3D model:
 
-* Billet of dyewood; from Shipwreck Treasure Museum, Charlestown
+* [Billet of dyewood](https://sketchfab.com/3d-models/dyewood-billet-from-the-wreck-of-the-president-b360861dbe214bfd8675f6cca6cb5f06); from [Shipwreck Treasure Museum](https://shipwreckcharlestown.co.uk), Charlestown
 
 ### Acknowledgements 
 
