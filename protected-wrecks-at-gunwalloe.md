@@ -95,3 +95,28 @@ Sources of information used, which also give further details;
 * Randall, A, 1984. Corsairs booty, Samuel Pepys and the last ship out of Tangier *Western Morning News*
 * Copies/transcriptions of documents, and commentary, courtesy of Anthony Randall. 
 
+### Photographs
+
+![Anthony Randall’s record of the petition to the King from a Master Caulker, Henry Dale, one of the distressed survivors of the Schiedam, requesting payment of lost wages.](website-images/1-Schiedam-petition.JPG)
+*Anthony Randall’s record of the petition to the King from a Master Caulker, Henry Dale, one of the distressed survivors of the Schiedam, requesting payment of lost wages.*
+
+![Rough sea on the Schiedam site; from licensed diver David Roberts’ 2009 report](website-images/2-Surf-foaming-on-Schiedam-site.jpg)
+*Rough sea on the Schiedam site; from licensed diver David Roberts’ 2009 report.*
+
+![Schiedam Gun 1, one of a dozen cannon ‘landmarks’ on the wreck site, courtesy of the late Mark Milburn](website-images/3-Schiedam-Gun-1.JPG)
+*Schiedam Gun 1, one of a dozen cannon ‘landmarks’ on the wreck site, courtesy of the late Mark Milburn.*
+
+![One of the Schiedam swivel guns with 50cm scale, courtesy of the late Mark Milburn](website-images/4-Schiedam-swivel-gun-at-Charelstwon.jpg)
+*One of the Schiedam swivel guns with 50cm scale, courtesy of the late Mark Milburn.*
+
+![Lead vessels from ‘Hollandia’ and 'Schiedam'. Photo courtesy of Anthony Randall](website-images/5-Lead-pots-one-on-left-from-Schiedam.jpg)
+*Lead vessels from ‘Hollandia’ and 'Schiedam'. Photo courtesy of Anthony Randall.*
+
+![Pewter plate with knife scoring as well as maker’s marks and crest. Photo courtesy of Anthony Randall](website-images/6-Schiedam-pewter-plate.JPG)
+*Pewter plate with knife scoring as well as maker’s marks and crest. Photo courtesy of Anthony Randall.*
+
+![Bell for horse harness, to warn of approach. Photo courtesy of Anthony Randall](website-images/7-Schiedam-bell.JPG)
+*Pewter plate with knife scoring as well as maker’s marks and crest. Photo courtesy of Anthony Randall.*
+
+![Schiedam survey of 2004, produced 2005, by Wessex Archaeology; incorporating plans made by Anthony Randall in several phases](website-images/8-Wessex-Archaeology-Schiedam-plan.jpg)
+*Schiedam survey of 2004, produced 2005, by Wessex Archaeology; incorporating plans made by Anthony Randall in several phases (coloured).*
