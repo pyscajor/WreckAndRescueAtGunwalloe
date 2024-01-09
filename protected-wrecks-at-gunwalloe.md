@@ -1,5 +1,9 @@
 # Gunwalloe’s Three ‘Protected Wrecks’
 
+* *[St Anthony](#1-st-anthony-pw-1000067-portuguese-carrack-wrecked-1527-fishing-cove-gunwalloe)*
+* *[Schiedam](#2-schiedam-pw-1000049-dutch-flute-wrecked-1684-jangye-ryn-gunwalloe)*
+* *[President](#president-or-loe-bar-wreck-pw-1000076-english-east-indiaman-wrecked-1684-loe-bar)*, or ‘Loe Bar Wreck’
+
 ## 1 *St Anthony*, PW 1000067; Portuguese carrack, wrecked 1527, Fishing Cove, Gunwalloe
 
 ### The Site and its Discovery
