@@ -71,3 +71,8 @@ The following items were 3D scanned from the collections of the [Shipwreck Treas
 * Candlestick component from the *St Anthony*
 * Replica silver ingot from the *St Anthony*
 
+## 3D capture notes
+
+The objects in this repository were captured using photogrammetry. They were processed with either Agisoft Metashape or Polycam (Apple Object Capture). Smaller objects were captured using a controlled lighting environment (light tent). Larger objects were captured in-situ within the museum galleries using available lighting.
+
+Photographs were taken with a Fujifilm X-T30 and a 35mm prime lens.
