@@ -33,7 +33,7 @@ You can explore through ‘Wreck and Rescue’ 3D models:
 * ‘[Stink Pot](https://sketchfab.com/3d-models/rcm-stink-pot-from-the-st-anthony-bb8af360365b4b15a87703f04f5c3f8e)’ lead shot, candlestick base, and copper ingot; from Royal Cornwall Museum, Truro
 * [Replica of silver ingot](https://sketchfab.com/3d-models/stm-replica-ingot-from-the-st-anthony-a47f60b397714f469e966381a1905078); from Shipwreck Treasure Museum, Charlestown ─ the original being at the British Museum, London
 
-All 3D models displayed on Sketchfab can also be downloaded, along with a list and explanation of the file formats, from [this repository](https://github.com/pyscajor/WreckAndRescueAtGunwalloe/tree/main/3D%20models).
+View [all 3D models from this project](3D-model-descriptions.md).
 
 ### Acknowledgements 
 
@@ -87,7 +87,7 @@ You can explore through ‘Wreck and Rescue’ 3D models:
 * [Lead weight](https://sketchfab.com/3d-models/stm-compass-weight-from-the-shiedam-prize-e2efd85ff41c4c758edf03e13858df87), [nested copper vessels](https://sketchfab.com/3d-models/schiedam-nested-copper-measuring-cups-66a4e964a8c543a594cccf0412945d1d), and [lead box](https://sketchfab.com/3d-models/schiedam-square-section-lead-pot-141cd3ee67644810b7ccb756e6cbe470) (3 models); from Shipwreck Treasure Museum, Charlestown
 * [Stern gun](https://sketchfab.com/3d-models/stern-gun-possibly-from-the-schiedam-aa4bdeb014ed4fa89d4b56e351eb6afc), and [grenades](https://sketchfab.com/3d-models/post-medieval-grenade-with-wooden-powder-bung-f9911d9c056543b2bd6c0db15f995197) including [wooden bungs](https://sketchfab.com/3d-models/wooden-grenade-powder-bung-f29de47cad0249acae5736ae5cb4523d), in [concreted beach material](https://sketchfab.com/3d-models/bob-felce-heavily-concreted-grenade-4f8e3429541f4748847b6bae82968307) (4 models); from Robert Felce, Mullion
 
-All 3D models displayed on Sketchfab can also be downloaded, along with a list and explanation of the file formats, from [this repository](https://github.com/pyscajor/WreckAndRescueAtGunwalloe/tree/main/3D%20models).
+View [all 3D models from this project](3D-model-descriptions.md).
 
 ### Acknowledgements 
 
@@ -154,6 +154,8 @@ Local people might seize and conflict over wreckage; conceal and use cargo thems
 You can explore through a ‘Wreck and Rescue’ 3D model:
 
 * [Billet of dyewood](https://sketchfab.com/3d-models/dyewood-billet-from-the-wreck-of-the-president-b360861dbe214bfd8675f6cca6cb5f06); from [Shipwreck Treasure Museum](https://shipwreckcharlestown.co.uk), Charlestown
+
+View [all 3D models from this project](3D-model-descriptions.md).
 
 ### Acknowledgements 
 
