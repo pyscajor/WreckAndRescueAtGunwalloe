@@ -3,9 +3,9 @@
 A project by [Cornwall Archaeological Unit](http://cau.org.uk), Funded by [Historic England](https://historicengland.org.uk).
 
 This website presents our project commemorating 50 years of Protected Wrecks (PWs):
-1. Exploring Gunwalloe’s Three ‘Protected Wrecks’; 
-1. Looking at More Wreck-Related Remains, from around Gunwalloe, from among the hundreds of other local shipwrecks and strandings; 
-1. Sharing the legacy of Rescue at Gunwalloe, which was to save thousands of lives.
+1. [Exploring Gunwalloe’s Three ‘Protected Wrecks’](protected-wrecks-at-gunwalloe.md); 
+1. [Looking at More Wreck-Related Remains, from around Gunwalloe](more-wreck-related-remains-gunwalloe.md), from among the hundreds of other local shipwrecks and strandings; 
+1. [Sharing the legacy of Rescue at Gunwalloe](shipwreck-rescue-at-gunwalloe.md), which was to save thousands of lives.
 
 ![Licenced diver John Mitchell marks the PW anniversary, at the site of the Schiedam wreck of 1684 off Gunwalloe; from a video courtesy of diver Sean Hester who filmed it.](website-images/2-Still-of-Schiedam-probably-Gun-1-from-dive-video.jpg)
 
