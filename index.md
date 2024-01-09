@@ -1,7 +1,6 @@
 **Wreck & Rescue at Gunwalloe: [Protected Wrecks](protected-wrecks-at-gunwalloe.md) &#124; [Wreck-related remains](more-wreck-related-remains-gunwalloe.md) &#124; [Shipwreck rescue](shipwreck-rescue-at-gunwalloe.md) &#124; [3D models](3D-model-descriptions.md)**
 
-# Wreck and Rescue at Gunwalloe, Cornwall
-## Exploring the legacy on land of shipwrecks on the west of the Lizard, on the 50th Anniversary of the ‘Protected Wrecks’ (PW) legislation that helps preserve our undersea heritage.
+# Exploring the legacy on land of shipwrecks on the west of the Lizard, on the 50th Anniversary of the ‘Protected Wrecks’ (PW) legislation that helps preserve our undersea heritage.
 A project by [Cornwall Archaeological Unit](http://cau.org.uk), Funded by [Historic England](https://historicengland.org.uk).
 
 This website presents our project commemorating 50 years of Protected Wrecks (PWs):
@@ -57,7 +56,7 @@ Barry’s family had suffered a tragic shipwreck in 1872; William Mundy, coxswai
 ![Aerial photo, showing the location of the 3 Protected Wrecks on the coast of the parish of Gunwalloe. On the south is the Castle headland with the Church behind it](website-images/5-PWs-map-for-website-resized.jpg)
 *Aerial photo, showing the location of the 3 Protected Wrecks on the coast of the parish of Gunwalloe. On the south is the Castle headland with the Church behind it.*
 
-**Wreck & Rescue at Gunwalloe:** [Home](index.md) | [Protected Wrecks](protected-wrecks-at-gunwalloe.md) | [Wreck-related remains](more-wreck-related-remains-gunwalloe.md) | [Shipwreck rescue](shipwreck-rescue-at-gunwalloe.md) | [3D models](3D-model-descriptions.md)
+**Wreck & Rescue at Gunwalloe: [Protected Wrecks](protected-wrecks-at-gunwalloe.md) &#124; [Wreck-related remains](more-wreck-related-remains-gunwalloe.md) &#124; [Shipwreck rescue](shipwreck-rescue-at-gunwalloe.md) &#124; [3D models](3D-model-descriptions.md)**
 
 
 
