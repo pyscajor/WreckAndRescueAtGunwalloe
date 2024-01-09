@@ -29,9 +29,11 @@ Maurice Smelt notes that Alexander I of Russia sent Trengrouse a diamond ring, a
 
 You can explore through ‘Wreck and Rescue’ 3D models:
 
-* *HMS Anson* gun, and bolt (2 models); from Museum of Cornish Life, Helston
-* Life-saving gear developed by Henry Trengrouse – Rocket line; Line ‘former’ for stowage; Bosun’s chair; Breeches buoy; Lifejacket; and gig of the kind fitted with rocket; (6 models) from Museum of Cornish Life, Helston
-* Modern lifeboat; from Museum of Cornish Life, Helston
+* *HMS Anson* [gun](https://sketchfab.com/3d-models/cannon-from-hms-anson-4968ee81b5f04c388129c758b05a94dd), and [bolt](https://sketchfab.com/3d-models/clench-bolt-from-hms-anson-7cee3c157fac4ec3a5c6b5af998c5e25) (2 models); from Museum of Cornish Life, Helston
+* Life-saving gear developed by Henry Trengrouse – [Rocket line](https://sketchfab.com/3d-models/rescue-apparatus-coiled-rocket-line-08cb44f703904e9f8a6717502e142b48); [Line ‘former’ for stowage](https://sketchfab.com/3d-models/rescue-apparatus-rocket-line-former-a162873a58a7446cab8094287f79ebd2); [Bosun’s chair](https://sketchfab.com/3d-models/trengrouses-bosuns-chair-d8aa65895b044bc3994342badecbdd35); [Breeches buoy](https://sketchfab.com/3d-models/breeches-buoy-56ebae3995f84ecc9ceb4fb5698d052d); [Lifejacket](https://sketchfab.com/3d-models/trengrouses-life-spencer-early-life-jacket-ce46b9e728bf4833b0659c7236356677); and [gig of the kind fitted with rocket](https://sketchfab.com/3d-models/pilot-gig-model-6fe215051223473ba31824d3de0ac091); (6 models) from Museum of Cornish Life, Helston
+* [Modern lifeboat](https://sketchfab.com/3d-models/model-of-the-lizard-lifeboat-rnlb-duke-of-york-8619d5cb78964887bd31e0953f7dfd11); from Museum of Cornish Life, Helston
+
+View [all 3D models from this project](3D-model-descriptions.md).
 
 ## Acknowledgements 
 
