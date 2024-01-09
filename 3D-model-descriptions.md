@@ -166,7 +166,10 @@ Similar coins are noted and illustrated in a parish history of 1875 by the Rev. 
 
 #### Low Lee wooden bowl, brick, deadeye, lid with shot hole; CISMAS
 
-[View this model on Sketchfab]()
+[Low Lee wooden bowl: View this model on Sketchfab](https://sketchfab.com/3d-models/turned-wooden-bowl-found-at-low-lee-4f069e08d817461abddba4fe38f836ba)
+[Brick](https://sketchfab.com/3d-models/dutch-brick-found-at-low-lee-5a5df9166c5f4805959d7bc71321bb63)
+[Ship's deadeye](https://sketchfab.com/3d-models/deadeye-found-at-low-lee-7f977225922a46cc905052d3d37e799a)
+[Pewter lid with shot hole](https://sketchfab.com/3d-models/pewter-lid-found-at-low-lee-11c5e4b689264e5d8b55179f4e19a419)
 
 Divers on Low Lee, a ledge lurking just under the waves west of Gunwalloe across Mount’s Bay, have recovered a wide range of lost cargo and ballast. A report in preparation by diver and archaeologist Kevin Camidge presents finds including organic remains which are rarer survivals ─ a turned wooden bowl, reconstructed by a member of [CISMAS](https://www.cismas.org.uk), and a ship’s ‘deadeye’ or rounded block for rigging ropes. One of the more durable finds, a pewter lid, has a distorted hole, possibly from a gun shot.
 
