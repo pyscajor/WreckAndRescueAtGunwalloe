@@ -123,9 +123,9 @@ The site of the *Schiedam* itself, like Bob’s gun, is largely covered in a har
 
 #### Grenades attributed to Schiedam; found at Jangye-ryn (3 models)
 
-[Grenade 1: View this model on Sketchfab](https://sketchfab.com/3d-models/post-medieval-grenade-with-wooden-powder-bung-f9911d9c056543b2bd6c0db15f995197)
-[Grenade 2: View this model on Sketchfab](https://sketchfab.com/3d-models/bob-felce-heavily-concreted-grenade-4f8e3429541f4748847b6bae82968307)
-[Grenade wooden bung: View this model on Sketchfab](https://sketchfab.com/3d-models/wooden-grenade-powder-bung-f29de47cad0249acae5736ae5cb4523d)
+* [Grenade 1: View this model on Sketchfab](https://sketchfab.com/3d-models/post-medieval-grenade-with-wooden-powder-bung-f9911d9c056543b2bd6c0db15f995197)
+* [Grenade 2: View this model on Sketchfab](https://sketchfab.com/3d-models/bob-felce-heavily-concreted-grenade-4f8e3429541f4748847b6bae82968307)
+* [Grenade wooden bung: View this model on Sketchfab](https://sketchfab.com/3d-models/wooden-grenade-powder-bung-f29de47cad0249acae5736ae5cb4523d)
 
 Several grenades, coated in silt and shingle ‘concreted’ by corrosion, have been found by Robert Felce searching the beach at Jangye-ryn. Like the concreted gun found in the same way, they were probably swept here from the nearby site of the *Schiedam* wreck of 1684.
 
@@ -155,8 +155,8 @@ The 3D model shows too how the Castle appears from the sea, and captures the ram
 
 #### 1780s silver dollars; at Royal Cornwall Museum, Truro (2 models)
 
-[Dollar 1: View this model on Sketchfab](https://sketchfab.com/3d-models/rcm-1780s-silver-dollar-from-a-gunwalloe-wreck-61fb2e109084482d8f50c3f8c8deea50)
-[Dollar 2: View this model on Sketchfab](https://sketchfab.com/3d-models/rcm-1780s-silver-dollar-with-concretion-68279aaa74a8458ebfc7d6dd0b9ce2ab)
+* [Dollar 1: View this model on Sketchfab](https://sketchfab.com/3d-models/rcm-1780s-silver-dollar-from-a-gunwalloe-wreck-61fb2e109084482d8f50c3f8c8deea50)
+* [Dollar 2: View this model on Sketchfab](https://sketchfab.com/3d-models/rcm-1780s-silver-dollar-with-concretion-68279aaa74a8458ebfc7d6dd0b9ce2ab)
 
 Finds of Spanish silver dollars at Gunwalloe are recorded before the mid-19th century. Eight were said to have been found in 1866. Some accounts mention that local farm boys would come to the beach to eat their dinners and search for coins. From their dates, the dollars have been attributed to a wreck of c1784, not been identified in documentary records.
 
@@ -166,10 +166,10 @@ Similar coins are noted and illustrated in a parish history of 1875 by the Rev. 
 
 #### Low Lee wooden bowl, brick, deadeye, lid with shot hole; CISMAS
 
-[Low Lee wooden bowl: View this model on Sketchfab](https://sketchfab.com/3d-models/turned-wooden-bowl-found-at-low-lee-4f069e08d817461abddba4fe38f836ba)
-[Brick](https://sketchfab.com/3d-models/dutch-brick-found-at-low-lee-5a5df9166c5f4805959d7bc71321bb63)
-[Ship's deadeye](https://sketchfab.com/3d-models/deadeye-found-at-low-lee-7f977225922a46cc905052d3d37e799a)
-[Pewter lid with shot hole](https://sketchfab.com/3d-models/pewter-lid-found-at-low-lee-11c5e4b689264e5d8b55179f4e19a419)
+*[Low Lee wooden bowl: View this model on Sketchfab](https://sketchfab.com/3d-models/turned-wooden-bowl-found-at-low-lee-4f069e08d817461abddba4fe38f836ba)
+*[Brick](https://sketchfab.com/3d-models/dutch-brick-found-at-low-lee-5a5df9166c5f4805959d7bc71321bb63)
+*[Ship's deadeye](https://sketchfab.com/3d-models/deadeye-found-at-low-lee-7f977225922a46cc905052d3d37e799a)
+*[Pewter lid with shot hole](https://sketchfab.com/3d-models/pewter-lid-found-at-low-lee-11c5e4b689264e5d8b55179f4e19a419)
 
 Divers on Low Lee, a ledge lurking just under the waves west of Gunwalloe across Mount’s Bay, have recovered a wide range of lost cargo and ballast. A report in preparation by diver and archaeologist Kevin Camidge presents finds including organic remains which are rarer survivals ─ a turned wooden bowl, reconstructed by a member of [CISMAS](https://www.cismas.org.uk), and a ship’s ‘deadeye’ or rounded block for rigging ropes. One of the more durable finds, a pewter lid, has a distorted hole, possibly from a gun shot.
 
