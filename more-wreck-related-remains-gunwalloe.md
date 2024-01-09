@@ -33,6 +33,8 @@ You can explore through ‘Wreck and Rescue’ 3D models:
 * [Silver button](https://sketchfab.com/3d-models/silver-button-ffda97d5b1af4a9ab627955561548a4c); found by Robert Felce of Mullion
 * ‘[Book](https://sketchfab.com/3d-models/carved-memorial-book-made-from-shipwrecked-wood-826764ec7bca42e187b823c9dd955d51)’ carved from shipwreck timber; from [Museum of Cornish Life](https://museumofcornishlife.co.uk), Helston
 
+View [all 3D models from this project](3D-model-descriptions.md).
+
 ## Acknowledgements 
 
 Sources of information used, which also give further details;
