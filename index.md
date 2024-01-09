@@ -55,14 +55,7 @@ Barry’s family had suffered a tragic shipwreck in 1872; William Mundy, coxswai
 ![Aerial photo, showing the location of the 3 Protected Wrecks on the coast of the parish of Gunwalloe. On the south is the Castle headland with the Church behind it](website-images/5-PWs-map-for-website-resized.jpg)
 *Aerial photo, showing the location of the 3 Protected Wrecks on the coast of the parish of Gunwalloe. On the south is the Castle headland with the Church behind it.*
 
-
-![Screenshot of a 3D model showing Gunwalloe’s Castle head at low spring tide. The site is a Scheduled ‘cliff castle’ of the Iron Age. It has rare archaeology of wreck salvage too, on the eroding cliffs and tidal inlet at its outermost point](website-images/1-Screenshot-of-ledges-from-Sketchfab-model.jpg)
-
-*Screenshot of a 3D model showing Gunwalloe’s Castle head at low spring tide. The site is a Scheduled ‘cliff castle’ of the Iron Age. It has rare archaeology of wreck salvage too, on the eroding cliffs and tidal inlet at its outermost point.*
-
-[View the 3D model on Sketchfab](https://#)
-
-
+**Wreck & Rescue at Gunwalloe: [Protected Wrecks](protected-wrecks-at-gunwalloe.md) | [Wreck-related remains](more-wreck-related-remains-gunwalloe.md) | [Shipwreck rescue](shipwreck-rescue-at-gunwalloe.md) | [3D models](3D-model-descriptions.md)**
 
 
 
