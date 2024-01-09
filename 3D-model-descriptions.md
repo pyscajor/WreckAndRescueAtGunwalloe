@@ -2,7 +2,7 @@
 
 ## 3D models
 
-This page lists the artefacts 3D scanned for the Wreck and Rescue project. The models can be viewed online via Sketchfab, or for advanced users, [downloaded via a GitHub repository](3D%20models/).
+This page lists the artefacts 3D scanned for the Wreck and Rescue project. The models can be viewed online via Sketchfab, or for advanced users, [downloaded via a GitHub repository](https://github.com/pyscajor/WreckAndRescueAtGunwalloe/tree/main/3D%20models).
 
 ### *St Anthony*, PW 1000067
 
