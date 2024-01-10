@@ -41,7 +41,7 @@ The *St Anthony* carried cannon to protect her cargo; as shown by historian John
 
 One of various brass candlestick pieces raised by divers from the *St Anthony* wreck of 1527, along with other small metal artefacts such as navigational instruments, all relatively durable, resistant to dispersal by the sea, and easy to recover. The candle holder has holes to take a support, forming part of a candelabra, and has been identified as a Dutch type of design (information at Charlestown Museum). 
 
-The rich cargo of the royal ship also included little brass lions. These were recognised by Anthony Randall, who led the team diving and researching on the ship in the 1980s, as ornamental supporters for the base of a grand candlestick. He found a photo of a candelabra with similar lion supporters (see St Anthony wreck page), and some comparable supporters at the Victoria and Albert Museum (V&A).
+The rich cargo of the royal ship also included little brass lions. These were recognised by Anthony Randall, who led the team diving and researching on the ship in the 1980s, as ornamental supporters for the base of a grand candlestick. He found a photo of a candelabra with similar lion supporters (see [St Anthony](protected-wrecks-at-gunwalloe.md#1-st-anthony-pw-1000067-portuguese-carrack-wrecked-1527-fishing-cove-gunwalloe) wreck page), and some comparable supporters at the Victoria and Albert Museum (V&A).
 
 Other small treasures on the ship, as noted by historian John Chenoweth, included ‘Precious stones, pearls, chains, brooches and other jewels of gold….’ 
 
