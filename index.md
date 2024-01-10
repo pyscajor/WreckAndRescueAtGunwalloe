@@ -8,7 +8,7 @@ This website presents our project commemorating 50 years of Protected Wrecks (PW
 1. [Looking at More Wreck-Related Remains, from around Gunwalloe](more-wreck-related-remains-gunwalloe.md), from among the hundreds of other local shipwrecks and strandings; 
 1. [Sharing the legacy of Rescue at Gunwalloe](shipwreck-rescue-at-gunwalloe.md), which was to save thousands of lives.
 
-![Licenced diver John Mitchell marks the PW anniversary, at the site of the Schiedam wreck of 1684 off Gunwalloe; from a video courtesy of diver Sean Hester who filmed it.](website-images/2-Still-of-Schiedam-probably-Gun-1-from-dive-video.jpg)
+![Licenced diver John Mitchell marks the PW anniversary, at the site of the Schiedam wreck of 1684 off Gunwalloe. The diver is underwater wearing SCUBA gear and is holding a sign that reads "#PWA50" - Protection of Wrecks Act 50 - with a stream of air bubbles floating upwards.](website-images/2-Still-of-Schiedam-probably-Gun-1-from-dive-video.jpg)
 
 *Licenced diver John Mitchell marks the PW anniversary, at the site of the Schiedam wreck of 1684 off Gunwalloe; from a video courtesy of diver Sean Hester who filmed it.* [Watch the dive video](website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4) (10MB, MP4 - file will download)
 
@@ -38,17 +38,16 @@ Many thanks to the [British Button Society](https://www.britishbuttonsociety.com
 
 And also to John Allan; Kevin Camidge; Robert Felce; Tasha Fullbrook: David Gibbins; Tom Goskar; Katrina Griffiths; Sean Hester; Phoebe Herring; Jo Mattingly; the late Mark Milburn; John Mitchell; Janet Tanner Moody; Barry Mundy; Priscilla Oates; Debbie Purser; Anthony Randall; Louise Randall; Daniel Scholes; Imogen Wood and all project Volunteers.
 
-![SUMO drone survey capturing the Castle headland, at extra-low spring tide, 2023](website-images/1-SUMO-drone-survey.JPG)
+![SUMO drone survey capturing the Castle headland, at extra-low spring tide, 2023. A man wearing a luminous jacket and a hat stands behind a large quadcopter resting on an orange landing disc marked with the letter H. The sea and cliffs of the Lizard are visible in the distance.](website-images/1-SUMO-drone-survey.JPG)
 *SUMO drone survey capturing the Castle headland, at extra-low spring tide, 2023*
 
-![Looking at the Schiedam PW site from the Castle, with Cathy Parkes (CAU), and David Gibbins and other divers, at the project event based at Gunwalloe Church in 2023.](website-images/2-DG-talk-on-Castle.jpg)
+![Looking at the Schiedam PW site from the Castle, with Cathy Parkes (CAU), and David Gibbins and other divers, at the project event based at Gunwalloe Church in 2023. The sea, beaches and cliffs are visible beyond the group of people.](website-images/2-DG-talk-on-Castle.jpg)
 *Looking at the Schiedam PW site from the Castle, with Cathy Parkes (CAU), and David Gibbins and other divers, at the project event based at Gunwalloe Church in 2023.*
 
-![Saw, with enlarged maker’s mark ‘Warren and Ted Superior’, preserved by coastguard Barry Mundy, salvaged from French steam collier ‘Denise’ in 1917. ‘Denise’ struck a few miles south of Gunwalloe at Men-te-Heul, meaning ‘High Rock’ as shown by the place-name work of Dr Oliver Padel. Coastal rocks, having been hazards and guides to navigation and fishing from ancient times, often have names in the Cornish language.
-Barry’s family had suffered a tragic shipwreck in 1872; William Mundy, coxswain of the Mullion lifeboat, and two of his sons, were lost when their fishing boat capsized. The Mundy family disaster and the stranding of the ‘Denise’ are among many local maritime incidents noted by Mullion historian Robert Felce.](website-images/3-Barry-Mundy-saw-detail.jpg)
+![Photo of a rusty wood saw with a wooden handle, blade pointing towards the left, on a white background with a black and white scale bar on the lower left. The photo contains an inset image to enlarge the circular maker’s mark ‘Warren and Ted Superior’. ](website-images/3-Barry-Mundy-saw-detail.jpg)
 *Saw, with enlarged maker’s mark ‘Warren and Ted Superior’, preserved by coastguard Barry Mundy, salvaged from French steam collier ‘Denise’ in 1917. ‘Denise’ struck a few miles south of Gunwalloe at Men-te-Heul, meaning ‘High Rock’ as shown by the place-name work of Dr Oliver Padel. Coastal rocks, having been hazards and guides to navigation and fishing from ancient times, often have names in Kernewek, the Cornish language. Barry’s family had suffered a tragic shipwreck in 1872; William Mundy, coxswain of the Mullion lifeboat, and two of his sons, were lost when their fishing boat capsized. The Mundy family disaster and the stranding of the ‘Denise’ are among many local maritime incidents noted by Mullion historian Robert Felce.*
 
-![Tom Goskar scanning a probable deck gun from the Schiedam found by Robert Felce, to make a virtual 3D model, June 2023](website-images/4-TG-scanning-RF-gun.JPG)
+![Archaeologist Tom Goskar scanning a probable deck gun from the Schiedam found by Robert Felce, to make a virtual 3D model, June 2023. The gun is covered in concretion - pebbles and sand as a solid layer - and it is resting on a black turntable inside a pop-up photography light box lined with white to ensure even lighting. A camera is on a tripod and Goskar is reaching towards the object](website-images/4-TG-scanning-RF-gun.JPG)
 *Tom Goskar scanning a probable deck gun from the Schiedam found by Robert Felce, to make a virtual 3D model, June 2023*
 
 ![Aerial photo, showing the location of the 3 Protected Wrecks on the coast of the parish of Gunwalloe. On the south is the Castle headland with the Church behind it](website-images/5-PWs-map-for-website-resized.jpg)
