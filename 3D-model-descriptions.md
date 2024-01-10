@@ -247,7 +247,7 @@ Further life-saving gear was developed through the work of Henry Trengrouse and 
 
 This gear continued in use in the 20th century, for example in 1912 at the wreck of the Welsh steam collier *City of Cardiff*. Driven back from Land’s End in a gale, the ship anchored at Nanjizal but was swept onto the rocks; parts of the wreckage can still be seen there. 
 
-Using the breeches buoy, coastguards rescued Mrs Storey and Mrs Bethke, wives of the captain and chief officer; chief engineer Meek, with two-year-old Fritz Bethke bound to him; and then the rest of the crew and finally the captain as the ship broke up (Larn and Carter, 1969 ─ see the Wrecks pages for sources used). The rescue was captured in images by Gibsons photographers of Penzance, now at the Royal Museums Greenwich.
+Using the breeches buoy, coastguards rescued Mrs Storey and Mrs Bethke, wives of the captain and chief officer; chief engineer Meek, with two-year-old Fritz Bethke bound to him; and then the rest of the crew and finally the captain as the ship broke up (Larn and Carter, 1969 ─ see the [Wrecks](protected-wrecks-at-gunwalloe.md) page for sources used). The rescue was captured in images by Gibsons photographers of Penzance, now at the Royal Museums Greenwich.
 
 #### Lifejacket; at Museum of Cornish Life, Helston
 
