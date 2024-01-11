@@ -50,7 +50,7 @@ And also to John Allan; Kevin Camidge; Robert Felce; Tasha Fullbrook: David Gibb
 ![Archaeologist Tom Goskar scanning a probable deck gun from the Schiedam found by Robert Felce, to make a virtual 3D model, June 2023. The gun is covered in concretion - pebbles and sand as a solid layer - and it is resting on a black turntable inside a pop-up photography light box lined with white to ensure even lighting. A camera is on a tripod and Goskar is reaching towards the object](website-images/4-TG-scanning-RF-gun.JPG)
 *Tom Goskar scanning a probable deck gun from the Schiedam found by Robert Felce, to make a virtual 3D model, June 2023*
 
-![Aerial photo, showing the location of the 3 Protected Wrecks on the coast of the parish of Gunwalloe. On the south is the Castle headland with the Church behind it](website-images/5-PWs-map-for-website-resized.jpg)
+![Aerial photo, showing the location of the 3 Protected Wrecks on the coast of the parish of Gunwalloe. On the south is the Castle headland with the Church behind it](website-images/5-PWs-map-for-website-V2-resized.jpg)
 *Aerial photo, showing the location of the 3 Protected Wrecks on the coast of the parish of Gunwalloe. On the south is the Castle headland with the Church behind it.*
 
 **Wreck & Rescue at Gunwalloe: [Protected Wrecks](protected-wrecks-at-gunwalloe.md) &#124; [Wreck-related remains](more-wreck-related-remains-gunwalloe.md) &#124; [Shipwreck rescue](shipwreck-rescue-at-gunwalloe.md) &#124; [3D models](3D-model-descriptions.md)**
