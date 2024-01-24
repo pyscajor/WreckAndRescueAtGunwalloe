@@ -29,7 +29,7 @@ Salvage recorded later in the 16th century included bronze guns (two went to Pen
 ### Heritage of the *St Anthony*
 You can explore through ‘Wreck and Rescue’ 3D models: 
 
-* Painted panels, remnants of old screen; from Gunwalloe Church (2 models: [south door](https://sketchfab.com/3d-models/st-winwaloe-apostles-gunwalloe-south-door-3d21db1873554a149f290d8d0cb7fdba), [north door](https://sketchfab.com/3d-models/st-winwaloe-apostles-gunwalloe-north-door-a5a30d74d40543e4820672e9b5e092ce))
+* Painted panels, remnants of old screen ([south door](https://sketchfab.com/3d-models/st-winwaloe-apostles-gunwalloe-south-door-3d21db1873554a149f290d8d0cb7fdba), [north door](https://sketchfab.com/3d-models/st-winwaloe-apostles-gunwalloe-north-door-a5a30d74d40543e4820672e9b5e092ce)); from Gunwalloe Church (2 models:)
 * ‘[Stink Pot](https://sketchfab.com/3d-models/rcm-stink-pot-from-the-st-anthony-bb8af360365b4b15a87703f04f5c3f8e)’ lead shot, candlestick base, and copper ingot; from Royal Cornwall Museum, Truro
 * [Replica of silver ingot](https://sketchfab.com/3d-models/stm-replica-ingot-from-the-st-anthony-a47f60b397714f469e966381a1905078); from Shipwreck Treasure Museum, Charlestown ─ the original being at the British Museum, London
 
@@ -170,7 +170,7 @@ Sources of information used, which also give further details;
 
 ![Swivel gun at the wreck of the President, c2011, in a 2012 dive report by licensee David Roberts. The Schiedam page shows a photo of a similar gun recovered by divers, and one of the Schiedam 3D models is of a concreted one from the beach near that site. ](website-images/1-President-swivel-gun.jpg)
 
-*Swivel gun at the wreck of the President, c2011, in a 2012 dive report by licensee David Roberts. The Schiedam section above shows a photo of a similar gun recovered by divers, and one of the Schiedam 3D models is of a [concreted one from the beach](https://sketchfab.com/3d-models/stern-gun-possibly-from-the-schiedam-aa4bdeb014ed4fa89d4b56e351eb6afc) near that site.*
+*Swivel gun at the wreck of the President, c2011, in a 2012 dive report by licensee David Roberts. Our Schiedam section above shows a photo of a similar gun recovered by divers, and one of the Schiedam 3D models is of a [concreted gun from the beach](https://sketchfab.com/3d-models/stern-gun-possibly-from-the-schiedam-aa4bdeb014ed4fa89d4b56e351eb6afc) near that site.*
 
 ![Sounding lead of the President, 2012; David Roberts’ 2012 dive report.](website-images/2-President-sounding-lead.jpg)
 
