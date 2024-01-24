@@ -45,6 +45,7 @@ Sources of information used, which also give further details;
 * Larn, R, and Carter, C, 1969. *Cornish Shipwrecks The South Coast*. David and Charles: Newton Abbot
 * Parkes, C, 2017. *Lizard Point, Landewednack, Cornwall: Archaeological Assessment*. Report no. 2017R007 CAU: Truro
 * Smelt, M, 2006. *101 Cornish Lives.* Alison Hodge: Penzance
+* Trengrouse, H, 1825. Notebook ‘3’ (Kresen Kernow, Redruth; Museum of Cornish Life collection, currently being fully catalogued)
 
 ## Photographs
 
