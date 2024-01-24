@@ -33,7 +33,7 @@ The lead ball here, hollow and with a potential ignition hole, has been interpre
 
 The ball contains silt, which may have traces of chemicals from the time of its use. As with archaeological excavations on land, analysis of finds is needed to discover their meanings as fully as possible. This can include studying maker’s marks, signs of wear, and residues of contents, as well detail of their context in a wreck.
 
-The *St Anthony* carried cannon to protect her cargo; as shown by historian John Chenoweth, this was estimated at the time as worth £18,880, around ten times the annual income of a wealthy peer, so it equates to millions of pounds today.
+The *St Anthony* carried cannon to protect her cargo; as shown by historian John Chynoweth, this was estimated at the time as worth £18,880, around ten times the annual income of a wealthy peer, so it equates to millions of pounds today.
 
 #### Candlestick part; at Shipwreck Treasure Museum, Charlestown
 
@@ -43,7 +43,7 @@ One of various brass candlestick pieces raised by divers from the *St Anthony* w
 
 The rich cargo of the royal ship also included little brass lions. These were recognised by Anthony Randall, who led the team diving and researching on the ship in the 1980s, as ornamental supporters for the base of a grand candlestick. He found a photo of a candelabra with similar lion supporters (see [St Anthony](protected-wrecks-at-gunwalloe.md#1-st-anthony-pw-1000067-portuguese-carrack-wrecked-1527-fishing-cove-gunwalloe) wreck page), and some comparable supporters at the Victoria and Albert Museum (V&A).
 
-Other small treasures on the ship, as noted by historian John Chenoweth, included ‘Precious stones, pearls, chains, brooches and other jewels of gold….’ 
+Other small treasures on the ship, as noted by historian John Chynoweth, included ‘Precious stones, pearls, chains, brooches and other jewels of gold….’ 
 
 #### Copper ingot; at Royal Cornwall Museum, Truro
 
@@ -51,7 +51,7 @@ Other small treasures on the ship, as noted by historian John Chenoweth, include
 
 The half-round copper ingots that led to the rediscovery of the St Anthony were found by chance. As related by Anthony Randall, one ingot, being suitably heavy, flat-bottomed and smooth on top, was put to use as a doorstop, before fellow diver Michael Hall recognised it! 
 
-Eight thousand ingots like this were recorded in the cargo list of the ship, which describes them as ‘cakes’ of copper. John Trenoweth includes the list in his 1968 history of the wreck, published in the journal of the Royal Institution of Cornwall in Truro, home of the museum where this ingot is preserved. From his study of court records of the disputed salvage, he concludes that the local lords, known to have seized a silver cross washed up in 1530, probably also seized most other items found.  
+Eight thousand ingots like this were recorded in the cargo list of the ship, which describes them as ‘cakes’ of copper. John Chynoweth includes the list in his 1968 history of the wreck, published in the journal of the Royal Institution of Cornwall in Truro, home of the museum where this ingot is preserved. From his study of court records of the disputed salvage, he concludes that the local lords, known to have seized a silver cross washed up in 1530, probably also seized most other items found.  
 
 In 1982 when the site was designated a Protected Wreck, other ingots were recovered, including one of silver which has also been modelled for *‘Wreck and Rescue’*.
 
@@ -61,7 +61,7 @@ In 1982 when the site was designated a Protected Wreck, other ingots were recove
 
 The casting here, made of zinc, is a replica of an original of pure silver, made in the same quarter-spherical or ‘melon’ shape. One of the half-round copper ingots from the *St Anthony* is also among the *‘Wreck and Rescue’* models.
 
-The original silver ingot is in the British Museum, London. It weighs 17.5lbs, and is 99.5% pure silver. It was found with others scattered in Gunwalloe’s Fishing Cove. Eighteen ‘cakes or blocks of silver bullion’, worth £2,250 at the time, were recorded in the cargo list before the St Anthony sailed, as transcribed by historian John Trenoweth.
+The original silver ingot is in the British Museum, London. It weighs 17.5lbs, and is 99.5% pure silver. It was found with others scattered in Gunwalloe’s Fishing Cove. Eighteen ‘cakes or blocks of silver bullion’, worth £2,250 at the time, were recorded in the cargo list before the St Anthony sailed, as transcribed by historian John Chynoweth.
  
 ### Schiedam, PW 1000067
 
@@ -77,7 +77,7 @@ This timber was found in 2008 by a Mr Holyer on Jangye-ryn, so may have come fro
 
 [View this model on Sketchfab](https://sketchfab.com/3d-models/marble-fragment-from-the-schiedam-prize-wreck-523d2896ebeb4d98975570698b1f4a8c)
 
-A carved piece of white marble, found by diving on the *Schiedam* wreck of 1684 before site was designated a Protected Wreck in 1982. The stone is cleanly cut on all sides, with saw marks on one face and a possible fixing point underneath it. 
+A carved piece of white marble, found by diving on the *Schiedam* wreck of 1684 before the site was designated a Protected Wreck in 1982. The stone is cleanly cut on all sides, with saw marks on one face and a possible fixing point underneath it. 
 
 The piece appears to be the base of a Classical style architectural carving. It may have been retrieved from some higher status premises in Tangier to be loaded on to the ship for evacuation to England along with other valuable fittings, gear and guns.
 
@@ -119,7 +119,7 @@ As it was washed up on the beach nearby, the gun probably came from the *Schieda
 
 Guns recovered by diving on the wreck include a swivel deck cannon, pictured in a photo on the [‘Wreck and Rescue’ page for the *Schiedam*](/protected-wrecks-at-gunwalloe.md#2-schiedam-pw-1000049-dutch-flute-wrecked-1684-jangye-ryn-gunwalloe), from Historic England archives. 
 
-The site of the *Schiedam* itself, like Bob’s gun, is largely covered in a hard ‘concretion’ of corrosion, slit, and stones; on top of that are ever-fluctuating layers of loose sand and gravel.
+The site of the *Schiedam* itself, like Bob’s gun, is largely covered in a hard ‘concretion’ of corrosion, silt, and stones; on top of that are ever-fluctuating layers of loose sand and gravel.
 
 #### Grenades attributed to Schiedam; found at Jangye-ryn (3 models)
 
