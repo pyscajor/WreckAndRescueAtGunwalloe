@@ -31,7 +31,7 @@ Joanna Mattingly, from her work on Cornish screens, suggests the base could have
 
 The lead ball here, hollow and with a potential ignition hole, has been interpreted as a form of ‘stink pot’ (information at Truro Museum). This was a type of grenade; larger grenades are also among the *‘Wreck and Rescue’* models. The ‘pots’ were filled with sulphur, gunpowder and small projectiles, to make a suffocating stink besides bombarding and burning enemy ships.
 
-The ball contains silt, which may have traces of chemicals from the time of its use. As with archaeological excavations on land, analysis of finds is needed to discover their meanings as fully as possible. This can include studying maker’s marks, signs of wear, and residues of contents, as well detail of their context in a wreck.
+The ball contains silt, which may have traces of chemicals from the time of its use. As with archaeological excavations on land, analysis of finds is needed to discover their meanings as fully as possible. This can include studying maker’s marks, signs of wear, and residues of contents, as well as detail of their context in a wreck.
 
 The *St Anthony* carried cannon to protect her cargo; as shown by historian John Chynoweth, this was estimated at the time as worth £18,880, around ten times the annual income of a wealthy peer, so it equates to millions of pounds today.
 
@@ -137,7 +137,7 @@ These artefacts are particularly remarkable as they include wooden bungs, which 
 
 [View this model on Sketchfab](https://sketchfab.com/3d-models/dyewood-billet-from-the-wreck-of-the-president-b360861dbe214bfd8675f6cca6cb5f06)
 
-Divers found this ‘billet’ or regular length of timber at the site where the East Indiaman, the *President*, was wrecked in 1684. It’s been identified it as a type of hardwood, known as sanderswood, sandalwood, or dyewood, from south east Asia.
+Divers found this ‘billet’ or regular length of timber at the site where the East Indiaman, the *President*, was wrecked in 1684. It’s been identified as a type of hardwood, known as sanderswood, sandalwood, or dyewood, from south east Asia.
 
 Dyewood was a valuable, frequently traded commodity, and this piece will have been part of the cargo of the ship, along with spices, and even diamonds. When boiled, dyewood produced a rich red dye, used to colour cloth (information at [Shipwreck Treasure Museum](https://shipwreckcharlestown.co.uk), Charlestown.)
  
@@ -158,7 +158,7 @@ The 3D model shows too how the Castle appears from the sea, and captures the ram
 * [Dollar 1: View this model on Sketchfab](https://sketchfab.com/3d-models/rcm-1780s-silver-dollar-from-a-gunwalloe-wreck-61fb2e109084482d8f50c3f8c8deea50)
 * [Dollar 2: View this model on Sketchfab](https://sketchfab.com/3d-models/rcm-1780s-silver-dollar-with-concretion-68279aaa74a8458ebfc7d6dd0b9ce2ab)
 
-Finds of Spanish silver dollars at Gunwalloe are recorded before the mid-19th century. Eight were said to have been found in 1866. Some accounts mention that local farm boys would come to the beach to eat their dinners and search for coins. From their dates, the dollars have been attributed to a wreck of c1784, not been identified in documentary records.
+Finds of Spanish silver dollars at Gunwalloe are recorded before the mid-19th century. Eight were said to have been found in 1866. Some accounts mention that local farm boys would come to the beach to eat their dinners and search for coins. From their dates, the dollars have been attributed to a wreck of c1784, although no such wreck has been identified in documentary records.
 
 Stories are likely to have been distorted by the promoters of salvage companies that developed a ‘dollar mine’, on the Castle headland, the site of which is captured in another ‘Wreck and Rescue’ model. However, some coins survive, including these, transformed by the wear of the waves and by coatings of concreted sea-bed silt and pebbles.
 
@@ -199,9 +199,9 @@ A space left after ‘barque’ may have been meant for the name of the ship, pe
 
 [View this model on Sketchfab](https://sketchfab.com/3d-models/cannon-from-hms-anson-4968ee81b5f04c388129c758b05a94dd)
 
-This 32-pounder iron cannon was one of two raised in 1964 by the Naval Air Command Sub-Aqua Club based at Culdrose near Helston. The Historic Environment Record, drawing on the findings of diver Richard Larn, identifies the *Anson* as one of Cornwall’s most extensively salvaged wrecks, and notes that nine or ten more cannon remain on the site, generally buried in the shifting sand.
+This 32-pounder iron cannon was one of two raised in 1964 by the Naval Air Command Sub-Aqua Club based at Culdrose near Helston. The Historic Environment Record, drawing on the findings of diver Richard Larn, identifies the *Anson* as one of Cornwall’s most extensively salvaged wrecks, and notes that nine or ten more cannons remain on the site, generally buried in the shifting sand.
 
-Cannon, with their high value and utility, could attract salvage attempts starting soon after ships were wrecked. These are often recorded in historic newspaper reports, accessible by subscription through the British Newspaper Archive; like the Admiralty search involving two vessels and ‘a new invented Diving engine’ after the warship *Royal Anne Galley* was lost in 1721 off Lizard Point, ‘her upper Teer (of guns) being all brass’. The site of the *Royal Anne*, the district’s most deadly wreck with over 200 victims, is now another of the Lizard’s Protected Wrecks.   
+Cannons, with their large size and high value and utility, could attract salvage attempts starting soon after ships were wrecked. These are often recorded in historic newspaper reports, accessible by subscription through the British Newspaper Archive; like the Admiralty search involving two vessels and ‘a new invented Diving engine’ after the warship *Royal Anne Galley* was lost in 1721 off Lizard Point, ‘her upper Teer (of guns) being all brass’. The site of the *Royal Anne*, the district’s most deadly wreck with over 200 victims, is now another of the Lizard’s Protected Wrecks.   
 
 #### Clench bolt from *HMS Anson*; at Museum of Cornish Life, Helston
 
@@ -237,7 +237,7 @@ Henry Trengrouse also set out in his account of his inventions the concept for t
 
 ‘Safety Chaise, to be suspended to the travellers [‘small wheels…running upon ropes’], for conveying persons (above the water,) to land from a stranded vessel; its construction is equally cheap as simple, - it folds up in a small space: in use, it is safe and easy, and indeed is a comfortable conveyance….’
 
-Trengrouse observed that at the wreck of the *James and Rebecca*, ‘every one of those unfortunate creatures might have been landed by the use of only safety chaise, long before the vessel went to pieces; as well as thousands of Dollars, and other valuable property which was lost.’
+Trengrouse observed that at the wreck of the *James and Rebecca*, ‘every one of those unfortunate creatures might have been landed by the use of only one safety chaise, long before the vessel went to pieces; as well as thousands of Dollars, and other valuable property which was lost.’
  
 #### Breeches Buoy; at Museum of Cornish Life, Helston
 
@@ -262,9 +262,9 @@ As recorded by Robert Morton Nance, joint founder of the Old Cornwall Societies,
 
 [View this model on Sketchfab](https://sketchfab.com/3d-models/pilot-gig-model-6fe215051223473ba31824d3de0ac091)
 
-Pilot gigs are seagoing 6-oared rowing boats 32 feet long, some fitted for a sail. They were designed to speed pilots out to ships; they’re now used for racing as a sport, on the Isles of Scilly, around the coast of Cornwall, and beyond. Gigs were used in the past for other work too, most importantly shipwreck rescue; and Henry Trengrouse’s rescue apparatus could be carried in them, fitted in chests.
+Pilot gigs are seagoing rowing boats, generally 6-oared and 32 feet long, some fitted for a sail. They were designed to speed pilots out to ships; they’re now used for racing as a sport, on the Isles of Scilly, around the coast of Cornwall, and beyond. Gigs were used in the past for other work too, most importantly shipwreck rescue; and Henry Trengrouse’s rescue apparatus could be carried in them, fitted in chests.
 
-This model gig shows the broader beam of some older gigs, enhancing stability in heavy seas. Historic gigs preserved in use today include boats whose crews rescued survivors from wrecks on Scilly. The 1830 gig *Slippen* saved lives from the wreck of a great schooner, *TW Lawson*, in 1907. 
+This model boat has fewer oars but has the broad beam of some older gigs, enhancing stability in heavy seas. Historic 6-oared gigs preserved in use today include boats whose crews rescued survivors from wrecks on Scilly. The 1830 gig *Slippen* saved lives from the wreck of a great schooner, *TW Lawson*, in 1907. 
 
 The wooden model, made by Mr W. Richards of Redruth, won a first prize at the 1901 Edinburgh Industrial Exhibition (information at [Museum of Cornish Life](https://museumofcornishlife.co.uk)). 
     
@@ -272,7 +272,7 @@ The wooden model, made by Mr W. Richards of Redruth, won a first prize at the 19
 
 [View this model on Sketchfab](https://sketchfab.com/3d-models/model-of-the-lizard-lifeboat-rnlb-duke-of-york-8619d5cb78964887bd31e0953f7dfd11)
 
-The purpose-built motor lifeboat *Duke of York*, reproduced in this detailed model, was stationed at the Lizard from 1934 to 1961.  She was 41 feet long and over 11 feet wide, and could carry 70 people even in rough seas (information at the [Museum of Cornish Life](https://museumofcornishlife.co.uk)).
+The purpose-built motor lifeboat *Duke of York*, reproduced in this detailed model, was stationed at the Lizard from 1934 to 1961.  She was 'Watson' class, 41 feet long and over 11 feet wide, and could carry 70 people even in rough seas (information at the [Museum of Cornish Life](https://museumofcornishlife.co.uk)).
 
 Cornwall’s first dedicated lifeboat was established around 1803 at Mount’s Bay (by Lloyd’s insurers of London). The Lizard station was founded later, after the fatal wreck of the steamer Czar in 1859. The original lifeboat there, similar to a gig, was named *Anna Maria* after patron Mrs Agar of Lanhydrock near Bodmin. *Anna Maria*’s first house was above the slipway on Lizard Point, itself made in 1691 most likely for a seine fishery. That house was replaced by the present ones further down the slip, which were used until 1961.
 
