@@ -49,19 +49,19 @@ Sources of information used, which also give further details;
 
 ## Photographs
 
-![Rough seas near the Schiedam site at Jangye-ryn, around the time the 3 wrecks were protected here at Gunwalloe, some 40 years ago; photo courtesy Anthony Randall.](website-images/1-Jangye-ryn-AR.jpg)
+![The view facing out to sea is full of large breakers with white streaked sides and curling white tops. Signs of spray in the scene and wear on the print contribute to a sense of the conditions often prevailing on the site and the passage of time since its designation.](website-images/1-Jangye-ryn-AR.jpg)
 
 *Rough seas near the Schiedam site at Jangye-ryn, around the time the 3 wrecks were protected here at Gunwalloe, some 40 years ago; photo courtesy Anthony Randall.*
 
-![Slippen and Bonnet, built in the early 19th century, are among the historic gigs on the Isles of Scilly still rowed today (pictured at a heritage gig event in 2021). These boats were used for rescue and salvage, as well as pilot work, for over a hundred years.](website-images/2-Slippen-and-Bonnet-at-Porthmellon.jpg)
+![These two early gigs, Slippen painted in blue, and Bonnet in green, are drawn up on the wide sandy beach beside a calm sea at Porthmellon, St Mary’s. Beyond are Padstow gig Teaser and other boats and rowers.](website-images/2-Slippen-and-Bonnet-at-Porthmellon.jpg)
 
 *Slippen and Bonnet, built in the early 19th century, are among the historic gigs on the Isles of Scilly still rowed today (pictured at a heritage gig event in 2021). These boats were used for rescue and salvage, as well as pilot work, for over a hundred years.*
 
-![Memorial in Gunwalloe churchyard, to Joseph Dale, who was drowned aged 22 while rescuing a sailor from the wreck of the Herman and August on Loe Bar in 1808. Joseph had helped save lives the previous year from the wreck of the James and Rebecca, one of the disasters cited by Henry Trengrouse as driving his inventing of rescue apparatus.](website-images/3-Joseph-Dale-memorial.JPG)
+![The gravestone is a rectangular slate. It is largely covered by lichen, mostly greyish white, some pale yellow. The name Joseph Dale engraved in elegant flowing script is clearly legible through the lichen. Beneath this the size of the lettering decreases, and it can just be made out with the benefit of the later 19th century transcription.](website-images/3-Joseph-Dale-memorial.JPG)
 
 *Memorial in Gunwalloe churchyard, to Joseph Dale, who was drowned aged 22 while rescuing a sailor from the wreck of the Herman and August on Loe Bar in 1808. Joseph had helped save lives the previous year from the wreck of the James and Rebecca, one of the disasters cited by Henry Trengrouse as driving his inventing of rescue apparatus.*
 
-![Black and white photo of a crew member being winched from the City of Cardiff (1909) in a breeches buoy - a white and red ring with a sturdy pair of canvas large legs to climb inside to be winched to safety. Photograph by Gibson, Penzance. Copyright National Maritime Museum, Greenwich, London](website-images/4-City-of-Cardiff-1909-rescue.jpg)
+![The scene is an expanse of stormy white surf foam, with the dark square bulk of the stranded steamer's bow to the right. In the centre a seaman wearing working clothes, in the breeches buoy, hangs over the sea from ropes rising from the ship to the cliff you can sense behind you from the steepness of the ropes' slant.](website-images/4-City-of-Cardiff-1909-rescue.jpg)
 
 *A crew member being winched from the City of Cardiff (1909) in a breeches buoy. Photograph by Gibson, Penzance. Copyright National Maritime Museum, Greenwich, London*
 
