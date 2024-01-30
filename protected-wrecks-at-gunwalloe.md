@@ -10,7 +10,7 @@
 
 ### The Site and its Discovery
 
-Discoveries of copper ingots at Fishing Cove led to investigation by diver Michael Hall and maritime historian and diver Richard Larn. The site was identified as wreckage from the royal Portuguese ship *St Anthony*, and was designated a PW in 1982. The ship was wrecked and many of her people drowned in 1527, on route from Antwerp to Lisbon. She carried a rich cargo, contested in the courts after the wreck; a history revealed in 1968 by John Trenoweth, descendant of one of the officers dealing with the disputes at the time.
+Discoveries of copper ingots at Fishing Cove led to investigation by diver Michael Hall and maritime historian and diver Richard Larn. The site was identified as wreckage from the royal Portuguese ship *St Anthony*, and was designated a PW in 1982. The ship was wrecked and many of her people drowned in 1527, on route from Antwerp to Lisbon. She carried a rich cargo, contested in the courts after the wreck; a history revealed in 1968 by John Chynoweth, descendant of one of the officers dealing with the disputes at the time.
 
 Through licensed diving and research on the PW by Anthony Randall in the mid-1980s, many artefacts were recovered and identified, including remarkable little lion-shaped supporters for the base of a splendid brass candlestick. 
 
@@ -18,11 +18,11 @@ No undisturbed remains of the ship itself are known. As recorded in 1527, the sh
 
 ### The Story of the Wreck
 
-This wreck has rare detailed documentation due to the disputes over the salvage. *St Anthony* was a 3 or 4 masted ‘carrack’, flagship of a fleet commanded by Antonio Pacheo for John (Joao) III of Portugal. Besides the ingots there were jewels, suits of armour, cloth, linen, musical and navigational instruments, candlesticks, and artillery, with pitch, tar, and other goods. Cannon of bronze and iron were also aboard to arm the ship.
+This wreck has rare detailed documentation due to the disputes over the salvage. *St Anthony* was a 3 or 4 masted ‘carrack’, flagship of a fleet commanded by Antonio Pacheo for John (Joao) III of Portugal. Besides the ingots there were jewels, suits of armour, cloth, linen, musical and navigational instruments, candlesticks, and artillery, with pitch, tar, and other goods. Cannons of bronze and iron were also aboard to arm the ship.
 
 When the anchors snapped in a foul gale, on January 19th, the master deliberately made for Loe Bar beach, but the ship struck a hidden reef, turned broadside on to the waves, and was pounded to pieces. Forty-five men, half the crew, managed to reach the shore. Goods were salvaged by the survivors and local people, but were fiercely contested.
 
-The Portuguese claimed that local gentry Godolphin, St Aubyn and Milliton robbed them violently, with drawn swords and armed retinues. The three Cornish lords maintained they were sent for to prevent embezzlement of goods, and negotiated and paid for the salvage rights. Enquiries followed, and the case went to the Court of the Star Chamber. Records of the ruling were lost in the Civil War, but John Trenoweth found that the Cornish lords gained greatly, while Henry VIII ensured some return of goods or their value to Portugal.
+The Portuguese claimed that local gentry Godolphin, St Aubyn and Milliton robbed them violently, with drawn swords and armed retinues. The three Cornish lords maintained they were sent for to prevent embezzlement of goods, and negotiated and paid for the salvage rights. Enquiries followed, and the case went to the Court of the Star Chamber. Records of the ruling were lost in the Civil War, but John Chynoweth found that the Cornish lords gained greatly, while Henry VIII ensured some return of goods or their value to Portugal.
 
 Salvage recorded later in the 16th century included bronze guns (two went to Pendennis Castle), and, 50 years after the wreck, a silver pipe and chain weighing 1lb. Tradition attributes to the wreck the wooden screen that once embellished Gunwalloe Church.
 
@@ -39,21 +39,21 @@ View [all 3D models from this project](3D-model-descriptions.md).
 
 Sources of information used, which also give further details;
 * Catalogue/display text: Royal Cornwall Museum, Truro; Shipwreck Treasure Museum, Charlestown
-* Chynoweth, J, 1968. The Wreck of the St Anthony. Journal of the Royal Institution of Cornwall New Series **4**, 385-406
+* Chynoweth, J, 1968. The Wreck of the St Anthony. *Journal of the Royal Institution of Cornwall* New Series **4**, 385-406
 * Historic England designation description, Protected Wreck 1000067
 * Historic England archive, Protected Wrecks licensed divers’ reports
-* Randall, A, n.d. The Wreck of the St. Anthony, 1527. TS article
+* Randall, A, n.d. *The Wreck of the St. Anthony*, 1527. Typescript article
 
 ### Photographs
 
 ![Surf at Fishing Cove pounding over the remains of the ‘St Anthony’, shot by Anthony Randall who explored and researched the wreck some 50 years ago](website-images/1-Surf-at-Fishing-Cove.jpg)
-*Surf at Fishing Cove pounding over the remains of the ‘St Anthony’, shot by Anthony Randall who explored and researched the wreck some 50 years ago (~1973).*
+*Surf at Fishing Cove pounding over the remains of the ‘St Anthony’, shot by Anthony Randall who explored and researched the wreck some 40 years ago (in the 1980s).*
 
 ![Cornish church historian Jo Mattingly at the project event in Gunwalloe Church. Jo is highlighting part of the church screen attributed to the St Anthony wreck, built into a door ─ with the help of a divers’ torch from Kevin Camidge of CISMAS.](website-images/2-JM-talk-Gunwalloe-screen.jpg)
 *Cornish church historian Jo Mattingly at the project event in Gunwalloe Church. Jo is highlighting part of the church screen attributed to the St Anthony wreck, built into a door ─ with the help of a divers’ torch from Kevin Camidge of CISMAS.*
 
 ![Fellow church specialist John Allan of Exeter shares observations of marks where the Gunwalloe Church screen once stood. The screen may have been paid for by the extraordinary rich salvage from the 1527 wreck of the St Anthony.](website-images/3-JA-and-church-screen-scar.jpg)
-*Fellow church specialist John Allan of Exeter shares observations of marks where the Gunwalloe Church screen once stood. The screen may have been paid for by the extraordinary rich salvage from the 1527 wreck of the St Anthony.*
+*Fellow church archaeology specialist John Allan of Exeter shares observations of marks where the Gunwalloe Church screen once stood. The screen may have been paid for by the extraordinary rich salvage from the 1527 wreck of the St Anthony.*
 
 ![Anthony Randall’s photo of an ornamental candlestick with lion supporters at the base, the lions closely resembling others he found at the wreck of the St Anthony.](website-images/4-Candlestick.jpg)
 
@@ -113,7 +113,7 @@ Sources of information used, which also give further details;
 *Schiedam Gun 1, one of a dozen cannon ‘landmarks’ on the wreck site, courtesy of the late Mark Milburn.*
 
 ![One of the Schiedam swivel guns with 50cm scale, courtesy of the late Mark Milburn](website-images/4-Schiedam-swivel-gun-at-Charelstwon.jpg)
-*One of the Schiedam swivel guns with 50cm scale, courtesy of the late Mark Milburn.*
+*One of the Schiedam swivel guns with 50cm scale; photo from Historic England archives.*
 
 ![Lead vessels from ‘Hollandia’ and 'Schiedam'. Photo courtesy of Anthony Randall](website-images/5-Lead-pots-one-on-left-from-Schiedam.jpg)
 *Lead vessels from ‘Hollandia’ and 'Schiedam'. Photo courtesy of Anthony Randall.*
@@ -122,7 +122,7 @@ Sources of information used, which also give further details;
 *Pewter plate with knife scoring as well as maker’s marks and crest. Photo courtesy of Anthony Randall.*
 
 ![Bell for horse harness, to warn of approach. Photo courtesy of Anthony Randall](website-images/7-Schiedam-bell.JPG)
-*Pewter plate with knife scoring as well as maker’s marks and crest. Photo courtesy of Anthony Randall.*
+*Small bell for horse harness, to warn of approach. Photo courtesy of Anthony Randall.*
 
 ![Schiedam survey of 2004, produced 2005, by Wessex Archaeology; incorporating plans made by Anthony Randall in several phases](website-images/8-Wessex-Archaeology-Schiedam-plan.jpg)
 *Schiedam survey of 2004, produced 2005, by Wessex Archaeology; incorporating plans made by Anthony Randall in several phases (coloured).*
@@ -131,7 +131,7 @@ Sources of information used, which also give further details;
 
 ### The Site and its Discovery
 
-Scattered iron objects including guns and an anchor were found here in 1998. The cannon are of 17th century type, and the remains are attributed to the recorded loss on Loe Bar of the *President*, an English ‘East Indiaman’ or large 3-masted well-armed merchant ship designed for sailing to and from southern Asia. The President was built in 1671, and wrecked in 1684 on a homeward voyage. The site was Designated a PW in 1999, as a rare seventeenth-century Indiaman shipwreck. 
+Scattered iron objects including guns and an anchor were found here in 1998. The cannons are of 17th century type, and the remains are attributed to the recorded loss on Loe Bar of the *President*, an English ‘East Indiaman’ or large 3-masted well-armed merchant ship designed for sailing to and from southern Asia. The President was built in 1671, and wrecked in 1684 on a homeward voyage. The site was Designated a PW in 1999, as a rare seventeenth-century Indiaman shipwreck. 
 
 Another British East Indiaman, the *Trial*, lost in 1622 on an uncharted reef off the north coast of what is now Western Australia ─ then unknown to the English ─ is Australia’s oldest protected wreck.
 
