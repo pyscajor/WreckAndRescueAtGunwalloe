@@ -34,6 +34,7 @@ The project has involved re-discovering wreck finds and records, and related sit
 *	Sharing discoveries and memories, as well as the results of the above, with local people, divers, archaeologists and visitors, through walks and talks, displays and informal presentations over two days at Gunwalloe Church (August 2023).
 *	As part of the August 2023 event, looking at evidence, excavated previously, of earlier medieval life at Gunwalloe, buried under sand and exposed in cliffs near the Schiedam wreck (with Imogen Wood).
 *	Producing a report to present the project and its results in a similar way to this website, with screenshots of the 3D models. The report can be accessed via the ADS (Archaeology Data Service) ‘OASIS’ system online, together with SUMO’s technical report on the GPR survey, and a compilation of drone processing data.
+*	Provision of 'Alternative Text' descriptions for each of the virtual 3D objects, attached to screenshots of them, in the project report. (This is in addition to 'Alt Text' for all other illustrations, both on the website and in the report.) Alt Text can be read aloud by screen reader programmes for users with impaired vision or blindness. We hope this will enhance the accessibility and enjoyment of the models with their diverse interest including potential for further study.
 
 ## Acknowledgements
 
