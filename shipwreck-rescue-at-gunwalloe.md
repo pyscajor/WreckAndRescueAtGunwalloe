@@ -4,7 +4,7 @@
 
 ## *James and Rebecca*; Government transport, wrecked 1807 at Halzephron, Gunwalloe
 
-Edward Cornish of Gunwalloe, aged 19 or so, witnessed this fatal wreck, and described it in 1870, aged 82, to the parish historian Rev. Cummings. The ship was bringing dragoons home from Buenos Aries under General Whitelock, carrying some 180 people. 
+Edward Cornish of Gunwalloe, aged 19 or so, witnessed this fatal wreck, and still recalled it in 1870, aged 82, as noted by the parish historian Rev. Cummings. The ship was bringing dragoons home from Buenos Aries under General Whitelock, carrying some 180 people. 
 
 Among the victims of the wreck were 28 horsemen, 10 crew, and 3 children; eight women were saved. As recalled also in 1870 by another witness consulted by the Vicar, Henry Cuttance of Gunwalloe, the drowned were buried in a single grave on Halzephron cliffs. 
 
