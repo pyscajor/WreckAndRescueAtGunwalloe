@@ -46,20 +46,20 @@ Sources of information used, which also give further details;
 
 ### Photographs
 
-![Surf at Fishing Cove pounding over the remains of the ‘St Anthony’, shot by Anthony Randall who explored and researched the wreck some 50 years ago](website-images/1-Surf-at-Fishing-Cove.jpg)
+![The view is almost filled by a broad zone of white surf. The shelving sands above are lined by white foam. Cliffs run away behind into the grey sky. Bits of sand are flying in the air.](website-images/1-Surf-at-Fishing-Cove.jpg)
 *Surf at Fishing Cove pounding over the remains of the ‘St Anthony’, shot by Anthony Randall who explored and researched the wreck some 40 years ago (in the 1980s).*
 
-![Cornish church historian Jo Mattingly at the project event in Gunwalloe Church. Jo is highlighting part of the church screen attributed to the St Anthony wreck, built into a door ─ with the help of a divers’ torch from Kevin Camidge of CISMAS.](website-images/2-JM-talk-Gunwalloe-screen.jpg)
+![The torch beam highlights the ornamental screen panels as part of the exploration of their origins. The panels form the base of the dark painted door set in the whitewashed north wall.](website-images/2-JM-talk-Gunwalloe-screen.jpg)
 *Cornish church historian Jo Mattingly at the project event in Gunwalloe Church. Jo is highlighting part of the church screen attributed to the St Anthony wreck, built into a door ─ with the help of a divers’ torch from Kevin Camidge of CISMAS.*
 
-![Fellow church specialist John Allan of Exeter shares observations of marks where the Gunwalloe Church screen once stood. The screen may have been paid for by the extraordinary rich salvage from the 1527 wreck of the St Anthony.](website-images/3-JA-and-church-screen-scar.jpg)
+![John Allan is pointing up to a cut in the masonry inside the church, high on the north side of the most easterly of the granite pointed arches between the nave and the aisle, on the former line of the screen. The cut, perhaps as long as a forearm, is partly in the head of the arch and partly in the wall above that. It slants out towards the west, as the rood loft did. There is a corresponding rougher cut trimming back the granite at the springing of the same arch.](website-images/3-JA-and-church-screen-scar.jpg)
 *Fellow church archaeology specialist John Allan of Exeter shares observations of marks where the Gunwalloe Church screen once stood. The screen may have been paid for by the extraordinary rich salvage from the 1527 wreck of the St Anthony.*
 
-![Anthony Randall’s photo of an ornamental candlestick with lion supporters at the base, the lions closely resembling others he found at the wreck of the St Anthony.](website-images/4-Candlestick.jpg)
+![The candlestick is golden, polished brass. It is highly ornamental, with a splayed base and a broad top with crenelations like a turret around the candle spike. The three small stylised lions holding up its round base have engraved detail representing manes and sleepy faces.](website-images/4-Candlestick.jpg)
 
 *Anthony Randall’s photo of an ornamental candlestick with lion supporters at the base, the lions closely resembling others he found at the wreck of the St Anthony.*
 
-![Silver ingot, with candlestick parts below it, and lead disc between those; found by diving on the St Anthony and photographed after landing by Anthony Randall. Anthony suggests the lead piece is a seal from one of the suits of armour listed in the cargo.](website-images/5-Ingot-and-candle-sockets.JPG)
+![The finds lie on a white sheet in natural light as if spread on the clifftop after landing. They look clean and sharp, especially the half-round ingot with its silver shine.](website-images/5-Ingot-and-candle-sockets.JPG)
 
 *Silver ingot with candlestick parts below it, and lead disc between those; found by diving on the St Anthony and photographed after landing by Anthony Randall. Anthony suggests the lead piece is a seal from one of the suits of armour listed in the cargo.*
 
@@ -103,28 +103,28 @@ Sources of information used, which also give further details;
 
 ### Photographs
 
-![Anthony Randall’s record of the petition to the King from a Master Caulker, Henry Dale, one of the distressed survivors of the Schiedam, requesting payment of lost wages.](website-images/1-Schiedam-petition.JPG)
+![The appeal 'To the King's most Excellent Majesty' is written in a flowing, accomplished hand on behalf of Henry Dale and six other named caulkers. It refers to their 'Extraordinary Service at Tangier in working night and day for the demolishing thereof.'](website-images/1-Schiedam-petition.JPG)
 *Anthony Randall’s record of the petition to the King from a Master Caulker, Henry Dale, one of the distressed survivors of the Schiedam, requesting payment of lost wages.*
 
-![Rough sea on the Schiedam site; from licensed diver David Roberts’ 2009 report](website-images/2-Surf-foaming-on-Schiedam-site.jpg)
+![Despite the low tide, Jangye-ryn beach in the foreground is hidden, covered by masses of creamy foam piled in by the wind. On the Schiedam wreck site beyond, sharp black rocks rise from the white surf.](website-images/2-Surf-foaming-on-Schiedam-site.jpg)
 *Rough sea on the Schiedam site; from licensed diver David Roberts’ 2009 report.*
 
-![Schiedam Gun 1, one of a dozen cannon ‘landmarks’ on the wreck site, courtesy of the late Mark Milburn](website-images/3-Schiedam-Gun-1.JPG)
+![The diver is looking down at a cannon bearing red and amber coloured seaweed. The yellow rim of the diver’s mask, and a swarm of white bubbles around it, stand out against their dark scuba suit and the opaque turquoise water.](website-images/3-Schiedam-Gun-1.JPG)
 *Schiedam Gun 1, one of a dozen cannon ‘landmarks’ on the wreck site, courtesy of the late Mark Milburn.*
 
-![One of the Schiedam swivel guns with 50cm scale, courtesy of the late Mark Milburn](website-images/4-Schiedam-swivel-gun-at-Charelstwon.jpg)
+![The gun is lying with its ribbed barrel facing towards us and tapering swivel end behind. The iron fabric is rough but appears well-preserved, perhaps newly blacked. A scale indicates it is approximately a metre long.](website-images/4-Schiedam-swivel-gun-at-Charelstwon.jpg)
 *One of the Schiedam swivel guns with 50cm scale; photo from Historic England archives.*
 
-![Lead vessels from ‘Hollandia’ and 'Schiedam'. Photo courtesy of Anthony Randall](website-images/5-Lead-pots-one-on-left-from-Schiedam.jpg)
+![The three objects are lying close together showing different sides. The light in the old photo, although not ideal for the purpose, catches the gouge marks one corner of the Schiedam pot to the right, which help distinguish it from the others. The pots are very similar, but it seems the central one is slightly larger and that on the left lacks lugs.](website-images/5-Lead-pots-one-on-left-from-Schiedam.jpg)
 *Lead vessels from ‘Hollandia’ and 'Schiedam'. Photo courtesy of Anthony Randall.*
 
-![Pewter plate with knife scoring as well as maker’s marks and crest. Photo courtesy of Anthony Randall](website-images/6-Schiedam-pewter-plate.JPG)
+![This upper surface of the plate has an enhanced, ridged edge, and a broad rim. The rim bears a coat of arms featuring an anchor engraved to one side, and opposite this across the plate, a row of four different small stamped symbols. The knife marks in the centre are quite fine but fairly numerous. The scale shows the plate is about 24cm in diameter.](website-images/6-Schiedam-pewter-plate.JPG)
 *Pewter plate with knife scoring as well as maker’s marks and crest. Photo courtesy of Anthony Randall.*
 
-![Bell for horse harness, to warn of approach. Photo courtesy of Anthony Randall](website-images/7-Schiedam-bell.JPG)
+![A round bell with a slit opening and some engraved lettering and patterning worn by the sea. A scale shows it is less than 5cm across.](website-images/7-Schiedam-bell.JPG)
 *Small bell for horse harness, to warn of approach. Photo courtesy of Anthony Randall.*
 
-![Schiedam survey of 2004, produced 2005, by Wessex Archaeology; incorporating plans made by Anthony Randall in several phases](website-images/8-Wessex-Archaeology-Schiedam-plan.jpg)
+![The plan is oriented to the north. Several broad ragged bands of reefs run across the site north east to south west. Sixteen cannon or parts of them are plotted, mostly between the reefs. Twenty areas shaded different colours represent areas of archaeological features or concretions and/or excavations plotted at different times. A key shows how the 6 different shades relate to specific phases of work in the 1980s and 1990s. The scale indicates an area around 32m across overall.](website-images/8-Wessex-Archaeology-Schiedam-plan.jpg)
 *Schiedam survey of 2004, produced 2005, by Wessex Archaeology; incorporating plans made by Anthony Randall in several phases (coloured).*
 
 ## *President*, or ‘Loe Bar Wreck’, PW 1000076; English East Indiaman, wrecked 1684, Loe Bar
@@ -168,15 +168,15 @@ Sources of information used, which also give further details;
 
 ### Photographs
 
-![Swivel gun at the wreck of the President, c2011, in a 2012 dive report by licensee David Roberts. The Schiedam page shows a photo of a similar gun recovered by divers, and one of the Schiedam 3D models is of a concreted one from the beach near that site. ](website-images/1-President-swivel-gun.jpg)
+![The cannon lies on sand and low slabs of reef on the seabed. It is angled like the one in Figure 16, with its muzzle facing us and its swivel at the far end. Unlike that other gun it seems at first almost organic, with low clumps of green seaweed and white encrustations.](website-images/1-President-swivel-gun.jpg)
 
 *Swivel gun at the wreck of the President, c2011, in a 2012 dive report by licensee David Roberts. Our Schiedam section above shows a photo of a similar gun recovered by divers, and one of the Schiedam 3D models is of a [concreted gun from the beach](https://sketchfab.com/3d-models/stern-gun-possibly-from-the-schiedam-aa4bdeb014ed4fa89d4b56e351eb6afc) near that site.*
 
-![Sounding lead of the President, 2012; David Roberts’ 2012 dive report.](website-images/2-President-sounding-lead.jpg)
+![The lead appears to be a long cylinder. Like the cannon in the figure above, it lies on sand among stone slabs and is effectively camouflaged with a coat of white and green seaweed.](website-images/2-President-sounding-lead.jpg)
 
 *Sounding lead of the President, 2012; David Roberts’ 2012 dive report.*
 
-![President wreck site in rough wintry sea, 2012; David Roberts’ 2012 dive report. ](website-images/3-President-site-wintry-sea.jpg)
+![The photo is blurry with spray in the air. It shows the sea filled with breakers, crashing on a sequence of dark headlands. In the distance is a group of white houses on the outskirts of Porthleven.](website-images/3-President-site-wintry-sea.jpg)
 
 *President wreck site in rough wintry sea, 2012; David Roberts’ 2012 dive report.*
 
