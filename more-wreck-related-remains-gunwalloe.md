@@ -48,21 +48,21 @@ Sources of information used, which also give further details;
 
 ## Photographs
 
-![Tidal rocks off the Castle head, Gunwalloe; with examples of the sockets for salvage dam works, now making square rockpools, marked by blue arrows.](website-images/1-Inter-tidal-ledge-with-rock-cut-features.jpg)
+![The tidal ledge in the foreground, exposed at low water, contains features now forming small deep rockpools, marked on this photo by blue arrows. Their sub-square plans and alignments indicate these were made to hold uprights supporting a superstructure now gone.](website-images/1-Inter-tidal-ledge-with-rock-cut-features.jpg)
 
 *Tidal rocks off the Castle head, Gunwalloe; with examples of the sockets for salvage dam works, now making square rockpools, marked by blue arrows.*
 
-![‘Wreck and Rescue’ volunteers laying marks for the drone survey of the headland.](website-images/2-Volunteers-laying-marks-for-drone.JPG)
+![The project team in luminous yellow high visibility vests stand out on the open grassy summit of the headland. The square mark for the drone, quartered in black and white and about the size of a large chessboard, is fixed above the sudden cliff edge. Below is the smooth sand of Church Cove.](website-images/2-Volunteers-laying-marks-for-drone.JPG)
 
 *‘Wreck and Rescue’ volunteers laying marks for the drone survey of the headland.*
 
-![Plan of GPR survey using different colours to indicate different ground types](website-images/3-GPR-survey-plan.jpg)
+![The GPR plan shows buried anomalies or archaeological potential on the survey site, distinguished by colours and by letters allowing reference to the SUMO report. Added labels pick out the possible deep pit R, and features A to F potentially marking a rectangular structure which is indicated also by a dashed line.](website-images/3-GPR-survey-plan.jpg)
 
 *Plan of GPR survey area 20.75 square, north of Gunwalloe churchyard, indicating buried remains ─ a possible structure some 8m by 4m across, and a pit perhaps a wreck victims’ grave. Gunwalloe is a shrunken settlement; it was a manorial centre at Domesday (1086). Buried early houses like those found on the cliffs may extend to this area.*
 
 *Study of estate records (Fox and Padel, 2000) shows at least one tenement, besides the manor farm which had several houses, remained in the period of Gunwalloe’s wrecks, now PWs. So perhaps there were tenants here to help survivors like those who, having lost all they owned, petitioned the King for help (on the Schiedam wreck page).*
 
-![GPR survey underway. Volunteers look at the screen attached to the GPR equipment which is mounted on wheels and pushed across the site](website-images/4-GPR-survey-under-way.JPG)
+![Volunteers, framing the view in the photo, are gathered round the GPR unit on the survey site. The unit has a display screen the size of a tablet and a powered base with four wheels. Beyond the site, the towans now forming a golf course rise to the horizon.](website-images/4-GPR-survey-under-way.JPG)
 
 *Ground Penetrating Radar (GPR) survey underway.*
 
