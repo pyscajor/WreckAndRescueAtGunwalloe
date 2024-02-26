@@ -10,7 +10,9 @@ This website presents our project commemorating 50 years of Protected Wrecks (PW
 
 ![Scuba diver underwater, at a cannon lying in sand and seaweed at the Schiedam shipwreck site, in a greeny half-light. The diver holds a notice to the camera, reading "#PWA50" - Protection of Wrecks Act 50 - with a stream of air bubbles floating upwards.](website-images/2-Still-of-Schiedam-probably-Gun-1-from-dive-video.jpg)
 
-*Licenced diver John Mitchell marks the PW anniversary, at the site of the Schiedam wreck of 1684 off Gunwalloe; from a video courtesy of diver Sean Hester who filmed it.* [Watch the dive video](website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4) (10MB, MP4 - file will download)
+*Licenced diver John Mitchell marks the PW anniversary, at the site of the Schiedam wreck of 1684 off Gunwalloe; from a video courtesy of diver Sean Hester who filmed it.* [Download the dive video](website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4) (10MB, MP4) or watch it below.
+
+https://github.com/pyscajor/WreckAndRescueAtGunwalloe/assets/5623013/264b9e78-1b19-45d6-9f5d-ab81e5e133ca
 
 Gunwalloe, west of the great Lizard head on the south coast of Cornwall, forms a lee shore to Mount’s Bay with its ancient seaborne trade. Its isolated church by the sea was part of a medieval settlement, recorded in Domesday Book in 1086. At least one tenement besides the manor farm still remained when survivors of the three wrecks here struggled ashore.     
 
