@@ -10,7 +10,7 @@ This website presents our project commemorating 50 years of Protected Wrecks (PW
 
 ![Scuba diver underwater, at a cannon lying in sand and seaweed at the Schiedam shipwreck site, in a greeny half-light. The diver holds a notice to the camera, reading "#PWA50" - Protection of Wrecks Act 50 - with a stream of air bubbles floating upwards.](website-images/2-Still-of-Schiedam-probably-Gun-1-from-dive-video.jpg)
 
-*Licenced diver John Mitchell marks the PW anniversary, at the site of the Schiedam wreck of 1684 off Gunwalloe; from a video courtesy of diver Sean Hester who filmed it.* [Download the dive video](website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4) (10MB, MP4) or watch it below.
+*Licenced diver John Mitchell marks the PW anniversary, at the site of the Schiedam wreck of 1684 off Gunwalloe; from a video courtesy of diver Sean Hester who filmed it.* [Download the dive video](website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4) (10MB, MP4). If the video does appear below or there are problems accessing it, right click the link and select Save Link As to download.
 
 <video src="website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4" width="560" height="315" controls></video>
 
