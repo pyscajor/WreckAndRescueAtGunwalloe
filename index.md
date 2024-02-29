@@ -12,7 +12,7 @@ This website presents our project commemorating 50 years of Protected Wrecks (PW
 
 *Licenced diver John Mitchell marks the PW anniversary, at the site of the Schiedam wreck of 1684 off Gunwalloe; from a video courtesy of diver Sean Hester who filmed it.* [Download the dive video](website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4) (10MB, MP4) or watch it below.
 
-[View the dive video](https://github.com/pyscajor/WreckAndRescueAtGunwalloe/assets/5623013/264b9e78-1b19-45d6-9f5d-ab81e5e133ca)
+<video src="website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4" width="560" height="315" controls></video>
 
 Gunwalloe, west of the great Lizard head on the south coast of Cornwall, forms a lee shore to Mount’s Bay with its ancient seaborne trade. Its isolated church by the sea was part of a medieval settlement, recorded in Domesday Book in 1086. At least one tenement besides the manor farm still remained when survivors of the three wrecks here struggled ashore.     
 
@@ -67,5 +67,5 @@ Volunteers joined the GPR and drone surveys, set up the event in August 2023 tog
 
 **Wreck & Rescue at Gunwalloe: [Protected Wrecks](protected-wrecks-at-gunwalloe.md) &#124; [Wreck-related remains](more-wreck-related-remains-gunwalloe.md) &#124; [Shipwreck rescue](shipwreck-rescue-at-gunwalloe.md) &#124; [3D models](3D-model-descriptions.md)**
 
-<video src="website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4" width="320" height="240" controls></video>
+
 
