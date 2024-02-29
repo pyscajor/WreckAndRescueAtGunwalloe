@@ -7,7 +7,7 @@
 Silver dollars of c1784, attributed to a lost wreck, have been found here. A report of 1844 refers to 500, but this was stated to promote a salvage company, so may not be reliable! 
 Several schemes followed, even as late as 1909, involving damming the inlet, and driving an adit to blow up the seabed and sift the debris, as well as diving. In 1877 a new company evoked a recent ‘gold rush’ ─ ‘Here we have a better thing even than Australia, with all its gold mines – money already coined for us, and therefore let us put it into our purses!’
 
-A salvage way and other remains of these schemes are now inaccessible, due to cliff erosion, tidal action and sea-level rise. However, the rock-cut track especially is visible on the project’s drone survey of the Castle; together with the rampart of the Iron Age ‘cliff castle’ for which the headland is named, defined by a rampart on the landward side. 
+A salvage way and other remains of these schemes are now inaccessible, due to cliff erosion, tidal action and sea-level rise. However, the rock-cut track especially is visible on the project’s drone survey of the Castle; together with the rampart of the Iron Age ‘cliff castle’ for which the headland is named, defined by a rampart on the landward side. This cliff castle, or promontory fort, is a Scheduled Monument, with the National Heritage List for England (NHLE) number [1004265](https://historicengland.org.uk/listing/the-list/list-entry/1004265).
 
 ## Low Lee Ledge; multiple wreck site, off Penlee Point, Penzance
 
