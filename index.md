@@ -67,7 +67,5 @@ Volunteers joined the GPR and drone surveys, set up the event in August 2023 tog
 
 **Wreck & Rescue at Gunwalloe: [Protected Wrecks](protected-wrecks-at-gunwalloe.md) &#124; [Wreck-related remains](more-wreck-related-remains-gunwalloe.md) &#124; [Shipwreck rescue](shipwreck-rescue-at-gunwalloe.md) &#124; [3D models](3D-model-descriptions.md)**
 
-
-
-
+<video src="website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4" width="320" height="240" controls></video>
 
