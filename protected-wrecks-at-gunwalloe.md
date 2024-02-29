@@ -20,7 +20,7 @@ No undisturbed remains of the ship itself are known. As recorded in 1527, the sh
 
 This wreck has rare detailed documentation due to the disputes over the salvage. *St Anthony* was a 3 or 4 masted ‘carrack’, flagship of a fleet commanded by Antonio Pacheo for John (Joao) III of Portugal. Besides the ingots there were jewels, suits of armour, cloth, linen, musical and navigational instruments, candlesticks, and artillery, with pitch, tar, and other goods. Cannons of bronze and iron were also aboard to arm the ship.
 
-When the anchors snapped in a foul gale, on January 19th, the master deliberately made for Loe Bar beach, but the ship struck a hidden reef, turned broadside on to the waves, and was pounded to pieces. Forty-five men, half the crew, managed to reach the shore. Goods were salvaged by the survivors and local people, but were fiercely contested.
+When the anchors failed to hold in a foul gale, on January 19th 1527, the master deliberately made for Loe Bar beach, but the ship struck a hidden reef, turned broadside on to the waves, and was pounded to pieces. Forty-five men, half the crew, managed to reach the shore. Goods were salvaged by the survivors and local people, but were fiercely contested.
 
 The Portuguese claimed that local gentry Godolphin, St Aubyn and Milliton robbed them violently, with drawn swords and armed retinues. The three Cornish lords maintained they were sent for to prevent embezzlement of goods, and negotiated and paid for the salvage rights. Enquiries followed, and the case went to the Court of the Star Chamber. Records of the ruling were lost in the Civil War, but John Chynoweth found that the Cornish lords gained greatly, while Henry VIII ensured some return of goods or their value to Portugal.
 
@@ -38,11 +38,12 @@ View [all 3D models from this project](3D-model-descriptions.md).
 ### Acknowledgements 
 
 Sources of information used, which also give further details;
+* British Museum website, online database ‘Explore the Collection’ (you can [search under ‘Gunwalloe’](https://www.britishmuseum.org/collection/search?place=Gunwalloe%20Fishing%20Cove))
 * Catalogue/display text: Royal Cornwall Museum, Truro; Shipwreck Treasure Museum, Charlestown
 * Chynoweth, J, 1968. The Wreck of the St Anthony. *Journal of the Royal Institution of Cornwall* New Series **4**, 385-406
 * Historic England designation description, Protected Wreck 1000067
 * Historic England archive, Protected Wrecks licensed divers’ reports
-* Randall, A, n.d. *The Wreck of the St. Anthony*, 1527. Typescript article
+* Randall, A, n.d. *The Wreck of the St. Anthony, 1527*. Typescript article
 
 ### Photographs
 
@@ -61,7 +62,7 @@ Sources of information used, which also give further details;
 
 ![The finds lie on a white sheet in natural light as if spread on the clifftop after landing. They look clean and sharp, especially the half-round ingot with its silver shine.](website-images/5-Ingot-and-candle-sockets.JPG)
 
-*Silver ingot with candlestick parts below it, and lead disc between those; found by diving on the St Anthony and photographed after landing by Anthony Randall. Anthony suggests the lead piece is a seal from one of the suits of armour listed in the cargo.*
+*Artefacts from the St Anthony including silver ingot and two brass candlestick parts; found by diving and photographed after landing by Anthony Randall.*
 
 ## 2 *Schiedam*, PW 1000049; Dutch flute, wrecked 1684, Jangye-ryn, Gunwalloe
 
@@ -85,7 +86,7 @@ You can explore through ‘Wreck and Rescue’ 3D models:
 
 * [Timber](https://sketchfab.com/3d-models/ships-rib-from-the-wreck-of-the-schiedam-prize-0c2ea267de12447ea26e967ec22869ac), and [carved marble](https://sketchfab.com/3d-models/marble-fragment-from-the-schiedam-prize-wreck-523d2896ebeb4d98975570698b1f4a8c) (2 models); from Museum of Cornish Life, Helston
 * [Lead weight](https://sketchfab.com/3d-models/stm-compass-weight-from-the-shiedam-prize-e2efd85ff41c4c758edf03e13858df87), [nested copper vessels](https://sketchfab.com/3d-models/schiedam-nested-copper-measuring-cups-66a4e964a8c543a594cccf0412945d1d), and [lead box](https://sketchfab.com/3d-models/schiedam-square-section-lead-pot-141cd3ee67644810b7ccb756e6cbe470) (3 models); from Shipwreck Treasure Museum, Charlestown
-* [Stern gun](https://sketchfab.com/3d-models/stern-gun-possibly-from-the-schiedam-aa4bdeb014ed4fa89d4b56e351eb6afc), and [grenades](https://sketchfab.com/3d-models/post-medieval-grenade-with-wooden-powder-bung-f9911d9c056543b2bd6c0db15f995197) including [wooden bungs](https://sketchfab.com/3d-models/wooden-grenade-powder-bung-f29de47cad0249acae5736ae5cb4523d), in [concreted beach material](https://sketchfab.com/3d-models/bob-felce-heavily-concreted-grenade-4f8e3429541f4748847b6bae82968307) (4 models); from Robert Felce, Mullion
+* [Swivel gun](https://sketchfab.com/3d-models/stern-gun-possibly-from-the-schiedam-aa4bdeb014ed4fa89d4b56e351eb6afc), and [grenades](https://sketchfab.com/3d-models/post-medieval-grenade-with-wooden-powder-bung-f9911d9c056543b2bd6c0db15f995197) including [wooden bungs](https://sketchfab.com/3d-models/wooden-grenade-powder-bung-f29de47cad0249acae5736ae5cb4523d), in [concreted beach material](https://sketchfab.com/3d-models/bob-felce-heavily-concreted-grenade-4f8e3429541f4748847b6bae82968307) (4 models); from Robert Felce, Mullion
 
 View [all 3D models from this project](3D-model-descriptions.md).
 
