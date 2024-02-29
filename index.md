@@ -14,6 +14,8 @@ This website presents our project commemorating 50 years of Protected Wrecks (PW
 
 <video src="website-images/diving-the-schiedam-prize-jangye-ryn-gunwalloe.mp4" width="560" height="315" controls></video>
 
+## The Project
+
 Gunwalloe, west of the great Lizard head on the south coast of Cornwall, forms a lee shore to Mount’s Bay with its ancient seaborne trade. Its isolated church by the sea was part of a medieval settlement, recorded in Domesday Book in 1086. At least one tenement besides the manor farm still remained when survivors of the three wrecks here struggled ashore.     
 
 These three shipwrecks are among the 60 or so, in Cornwall and England, designated as PWs for their heritage importance. They were lost in different tragic circumstances.
