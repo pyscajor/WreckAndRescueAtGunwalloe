@@ -23,7 +23,7 @@ In a notebook, preserved at the Kresen Kernow archive, Redruth, Trengrouse recor
 
 Trengrouse’s book advocates his (literally) explosive invention, a compact portable ‘Rocket Apparatus’ to fire a line to the ship from the shore or a rescue boat. With this he describes a ‘Sailors Life Spencer’ or life jacket; a ‘Safety Chaise’ or Bosun’s Chair to carry people to shore hanging from the ‘travelling’ rope fixed on the ship; and other equipment.
 
-Maurice Smelt notes that Alexander I of Russia sent Trengrouse a diamond ring, and the Royal Society of Arts gave him a silver medal. His apparatus was officially adopted, albeit slowly. In just in 16 years, 1881 to 1897, it had already saved around 5,000 lives.
+Maurice Smelt notes that Alexander I of Russia sent Trengrouse a diamond ring, and the Royal Society of Arts gave him a silver medal. Other inventors working on firing lines to ships included Captain George Manby of Norfolk (1765-1854) who adapted a mortar for the purpose. Apparatus was developed and officially adopted, albeit slowly. It is said to have saved around 5,000 lives in just in 16 years, 1881 to 1897.
 
 ## Heritage of Rescue at Gunwalloe 
 
@@ -43,6 +43,7 @@ Sources of information used, which also give further details;
 * Catalogue/display descriptions: Museum of Cornish Life, Helston
 * Cummings, AH, 1875. *Churches and Antiquities of Cury and Gunwalloe*. W Lake: Truro
 * Larn, R, and Carter, C, 1969. *Cornish Shipwrecks The South Coast*. David and Charles: Newton Abbot
+* Norfolk Record Office online catalogue, Captain Manby archive, GB/153/NM/6723
 * Parkes, C, 2017. *Lizard Point, Landewednack, Cornwall: Archaeological Assessment*. Report no. 2017R007 CAU: Truro
 * Smelt, M, 2006. *101 Cornish Lives.* Alison Hodge: Penzance
 * Trengrouse, H, 1825. Notebook ‘3’ (Kresen Kernow, Redruth; Museum of Cornish Life collection, currently being fully catalogued)
