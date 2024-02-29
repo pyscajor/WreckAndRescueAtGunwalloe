@@ -6,7 +6,7 @@ A project by [Cornwall Archaeological Unit](http://cau.org.uk), Funded by [Histo
 This website presents our project commemorating 50 years of Protected Wrecks (PWs):
 1. [Exploring Gunwalloe’s Three ‘Protected Wrecks’](protected-wrecks-at-gunwalloe.md); 
 1. [Looking at More Wreck-Related Remains, from around Gunwalloe](more-wreck-related-remains-gunwalloe.md), from among the the many dozens of other known local shipwrecks and strandings; 
-1. [Sharing the legacy of Rescue at Gunwalloe](shipwreck-rescue-at-gunwalloe.md), which was to save thousands of lives.
+1. [Sharing the legacy of Rescue at Gunwalloe](shipwreck-rescue-at-gunwalloe.md), which was to contribute to the saving of thousands of lives.
 
 ![Scuba diver underwater, at a cannon lying in sand and seaweed at the Schiedam shipwreck site, in a greeny half-light. The diver holds a notice to the camera, reading "#PWA50" - Protection of Wrecks Act 50 - with a stream of air bubbles floating upwards.](website-images/2-Still-of-Schiedam-probably-Gun-1-from-dive-video.jpg)
 
@@ -24,7 +24,7 @@ These three shipwrecks are among the 60 or so, in Cornwall and England, designat
 
 PWs were created from 1973, to save our rarest, most meaningful shipwrecks ─ normally out of sight, but rich in evidence of past events and lost ways of living and voyaging.
 
-Like Listed Buildings on land, and Scheduled Monuments both on land and in the inter-tidal zone, PWs help conserve our archaeological heritage in its place and context. Designated wrecks are protected by law from disturbance, dredging or dumping, and from diving or retrieval of material without licence.
+Like Listed Buildings on land, and Scheduled Monuments which can be on land, in the inter-tidal zone, or on the sea bed, PWs help conserve our archaeological heritage in its place and context. Designated wrecks are protected by law from disturbance, dredging or dumping, and from diving or retrieval of material without licence.
 
 Licenced divers’ reports, photos, and site plans greatly expand our knowledge of the wrecks. This is gradually unfolding as the beach material on the seabed shifts to reveal more remains, or as research contributes new understanding.
 
@@ -46,7 +46,7 @@ CAU are very grateful for the support and help of the [British Button Society](h
 
 Many thanks to the project team John Allan; Kevin Camidge; Robert Felce; Tasha Fullbrook; David Gibbins; Tom Goskar; Jo Mattingly; Imogen Wood and SUMO’s Simon Batsman, Richard Fleming, Adam Stanford, and Scott Williams.
 
-And also to contributors and volunteers Lydia Allt; Sharon Austin; Isobel Bloomfield; David Clifton; David Dale; Sally Ealey; Graham Folkerd; Mary Ford; Barbara Gordon; Anne Green; Katrina Griffiths; Michael Hall; Phoebe Herring; Sean Hester; Charlie Johns; Kirstin Kennedy; Catherine Lee; Hefin Meara; the late Mark Milburn; John Mitchell; Janet Tanner Moody; Barry Mundy; Maureen Needham; Priscilla Oates and three supporters from the local OCS; James Parry; Bev Payton; Jane Perry; Dixon Pickup; Debbie Purser; Anthony Randall; David Roberts; Adrian Rodda; Daniel Scholes; Rozanne Trudgeon; Ken Wallace, Louise Williams; and Neill Wood.
+And also to contributors and volunteers Lydia Allt; Joan Andrew; Sharon Austin; Isobel Bloomfield; David Clifton; David Dale; Sally Ealey; Graham Folkerd; Mary Ford; Barbara Gordon; Anne Green; Katrina Griffiths; Michael Hall; Rosie Hawkings; Phoebe Herring; Sean Hester; Susan Hilton; Charlie Johns; Kirstin Kennedy; Catherine Lee; Hefin Meara; the late Mark Milburn; John Mitchell; Janet Tanner Moody; Barry Mundy; Maureen Needham; Priscilla Oates; James Parry; Bev Payton; Jane Perry; Dixon Pickup; Debbie Purser; Anthony Randall; David Roberts; Adrian Rodda; Daniel Scholes; Rozanne Trudgeon; Ken Wallace; Louise Williams; Neill Wood; and Malcolm Woodford.
 
 Volunteers joined the GPR and drone surveys, set up the event in August 2023 together with National Trust staff, and helped present the project at the event. Local resident Priscilla Oates contributed greatly, co-ordinating work with the Old Cornwall Society and all the many activities involving the church. Divers past and present provided information, images, and material for scanning, and displays, demonstrations, walks and talks at the August event.
 
